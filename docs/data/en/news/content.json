@@ -1,0 +1,1476 @@
+{
+    "events": [
+        {
+            "id": "31DE6bFqDiW6q6QsYcjJ7I",
+            "metadata": {
+                "id": "31DE6bFqDiW6q6QsYcjJ7I",
+                "publishedAt": "2026-04-17T14:05:00.641Z",
+                "publishedVersion": 64
+            },
+            "targeting": null,
+            "postDate": 1776434700641,
+            "sortDate": 1776373200000,
+            "lang": "en",
+            "title": " ",
+            "ctas": [
+                {
+                    "title": null,
+                    "type": "url",
+                    "urlType": "url",
+                    "id": "1MvJPjLtWUREiafzMY6PQM",
+                    "order": "0",
+                    "variant": "pink",
+                    "url": "https://youtu.be/7B0-WJ5QYsc?si=84lZ0iy_2LCvOcgN",
+                    "label": "Brawl Talk!"
+                }
+            ],
+            "relatedMedia": [],
+            "type": "eventEntry",
+            "displayTimer": true,
+            "timerLabel": " Starts in",
+            "timerKind": "DO_NOTHING",
+            "timerTarget": 1776523800000,
+            "hideTitle": true,
+            "background": {
+                "small": {
+                    "title": "0414 BrawlTalk carousel 1200x750.jpg",
+                    "path": "assets/5KxoiGiUcBFgHMFwMm59us/a62c245b867d86c4453966a337d8801d/0414_BrawlTalk_carousel_1200x750.jpg?w=240&h=150&f=center&fit=fill",
+                    "width": 240,
+                    "height": 150
+                },
+                "smallRetina": {
+                    "title": "0414 BrawlTalk carousel 1200x750.jpg",
+                    "path": "assets/5KxoiGiUcBFgHMFwMm59us/a62c245b867d86c4453966a337d8801d/0414_BrawlTalk_carousel_1200x750.jpg?w=480&h=300&f=center&fit=fill",
+                    "width": 480,
+                    "height": 300
+                },
+                "medium": {
+                    "title": "0414 BrawlTalk carousel 1200x750.jpg",
+                    "path": "assets/5KxoiGiUcBFgHMFwMm59us/a62c245b867d86c4453966a337d8801d/0414_BrawlTalk_carousel_1200x750.jpg?w=600&h=375&f=center&fit=fill",
+                    "width": 600,
+                    "height": 375
+                },
+                "mediumRetina": {
+                    "title": "0414 BrawlTalk carousel 1200x750.jpg",
+                    "path": "assets/5KxoiGiUcBFgHMFwMm59us/a62c245b867d86c4453966a337d8801d/0414_BrawlTalk_carousel_1200x750.jpg?w=720&h=450&f=center&fit=fill",
+                    "width": 720,
+                    "height": 450
+                },
+                "large": {
+                    "title": "0414 BrawlTalk carousel 1200x750.jpg",
+                    "path": "assets/5KxoiGiUcBFgHMFwMm59us/a62c245b867d86c4453966a337d8801d/0414_BrawlTalk_carousel_1200x750.jpg?w=960&h=600&f=center&fit=fill",
+                    "width": 960,
+                    "height": 600
+                },
+                "largeRetina": {
+                    "title": "0414 BrawlTalk carousel 1200x750.jpg",
+                    "path": "assets/5KxoiGiUcBFgHMFwMm59us/a62c245b867d86c4453966a337d8801d/0414_BrawlTalk_carousel_1200x750.jpg?w=1200&h=750&f=center&fit=fill",
+                    "width": 1200,
+                    "height": 750
+                }
+            }
+        },
+        {
+            "id": "5smZmOIYeHCNnDwb2hBF2W",
+            "metadata": {
+                "id": "5smZmOIYeHCNnDwb2hBF2W",
+                "publishedAt": "2026-04-14T14:27:20.667Z",
+                "publishedVersion": 44
+            },
+            "targeting": null,
+            "postDate": 1776172670584,
+            "sortDate": 1776172670584,
+            "lang": "en",
+            "title": " ",
+            "ctas": [
+                {
+                    "title": null,
+                    "type": "url",
+                    "urlType": "url",
+                    "id": "tMBtgeOpH03w6z3oPnMi6",
+                    "order": "0",
+                    "variant": "red",
+                    "url": "https://youtu.be/XRNeVhqC3Ro",
+                    "label": "WATCH!"
+                },
+                {
+                    "title": null,
+                    "type": "article",
+                    "urlType": "article",
+                    "id": "D7tndiwgWqVGYnEQpvdBa",
+                    "order": "1",
+                    "variant": "blue",
+                    "label": "READ",
+                    "url": {
+                        "id": "1ngnYxZ13f9oWnAoLCswCr",
+                        "section": "newsEntries"
+                    },
+                    "article": {
+                        "id": "1ngnYxZ13f9oWnAoLCswCr",
+                        "section": "newsEntries"
+                    }
+                }
+            ],
+            "relatedMedia": [],
+            "type": "eventEntry",
+            "displayTimer": false,
+            "timerTarget": 1777048946443,
+            "hideTitle": true,
+            "background": {
+                "small": {
+                    "title": "KeepBrawlAlive_carousel_1200x751.png",
+                    "path": "assets/5e3RUi1atx6uLRya2x2BjD/e47503a813608bf71940e08b95301d1e/KeepBrawlAlive_carousel_1200x751.png?w=240&h=150&f=center&fit=fill",
+                    "width": 240,
+                    "height": 150
+                },
+                "smallRetina": {
+                    "title": "KeepBrawlAlive_carousel_1200x751.png",
+                    "path": "assets/5e3RUi1atx6uLRya2x2BjD/e47503a813608bf71940e08b95301d1e/KeepBrawlAlive_carousel_1200x751.png?w=480&h=300&f=center&fit=fill",
+                    "width": 480,
+                    "height": 300
+                },
+                "medium": {
+                    "title": "KeepBrawlAlive_carousel_1200x751.png",
+                    "path": "assets/5e3RUi1atx6uLRya2x2BjD/e47503a813608bf71940e08b95301d1e/KeepBrawlAlive_carousel_1200x751.png?w=600&h=375&f=center&fit=fill",
+                    "width": 600,
+                    "height": 375
+                },
+                "mediumRetina": {
+                    "title": "KeepBrawlAlive_carousel_1200x751.png",
+                    "path": "assets/5e3RUi1atx6uLRya2x2BjD/e47503a813608bf71940e08b95301d1e/KeepBrawlAlive_carousel_1200x751.png?w=720&h=450&f=center&fit=fill",
+                    "width": 720,
+                    "height": 450
+                },
+                "large": {
+                    "title": "KeepBrawlAlive_carousel_1200x751.png",
+                    "path": "assets/5e3RUi1atx6uLRya2x2BjD/e47503a813608bf71940e08b95301d1e/KeepBrawlAlive_carousel_1200x751.png?w=960&h=600&f=center&fit=fill",
+                    "width": 960,
+                    "height": 600
+                },
+                "largeRetina": {
+                    "title": "KeepBrawlAlive_carousel_1200x751.png",
+                    "path": "assets/5e3RUi1atx6uLRya2x2BjD/e47503a813608bf71940e08b95301d1e/KeepBrawlAlive_carousel_1200x751.png?w=1200&h=750&f=center&fit=fill",
+                    "width": 1200,
+                    "height": 750
+                }
+            }
+        },
+        {
+            "id": "4GW6LGBZETTZfDbKqC2WST",
+            "metadata": {
+                "id": "4GW6LGBZETTZfDbKqC2WST",
+                "publishedAt": "2026-04-02T08:08:01.994Z",
+                "publishedVersion": 50
+            },
+            "targeting": null,
+            "postDate": 1775117281994,
+            "sortDate": 1774994400000,
+            "lang": "en",
+            "title": " ",
+            "ctas": [
+                {
+                    "title": null,
+                    "type": "url",
+                    "urlType": "url",
+                    "id": "7Ds4pcfuJwrPPTljAFwGVK",
+                    "order": "0",
+                    "variant": "gold",
+                    "url": "https://youtu.be/OrNuOJg9x28",
+                    "label": "Dragons and Faeries Season!"
+                }
+            ],
+            "relatedMedia": [],
+            "type": "eventEntry",
+            "displayTimer": false,
+            "timerTarget": 1777048946443,
+            "hideTitle": true,
+            "background": {
+                "small": {
+                    "title": "0326 Dragons & Fairies_caruselv02_1200x750.png",
+                    "path": "assets/4g6TTnJTHcdRPZ13svtq4u/ae353f0bc1e26608494211734833533a/0326_Dragons___Fairies_caruselv02_1200x750.png?w=240&h=150&f=center&fit=fill",
+                    "width": 240,
+                    "height": 150
+                },
+                "smallRetina": {
+                    "title": "0326 Dragons & Fairies_caruselv02_1200x750.png",
+                    "path": "assets/4g6TTnJTHcdRPZ13svtq4u/ae353f0bc1e26608494211734833533a/0326_Dragons___Fairies_caruselv02_1200x750.png?w=480&h=300&f=center&fit=fill",
+                    "width": 480,
+                    "height": 300
+                },
+                "medium": {
+                    "title": "0326 Dragons & Fairies_caruselv02_1200x750.png",
+                    "path": "assets/4g6TTnJTHcdRPZ13svtq4u/ae353f0bc1e26608494211734833533a/0326_Dragons___Fairies_caruselv02_1200x750.png?w=600&h=375&f=center&fit=fill",
+                    "width": 600,
+                    "height": 375
+                },
+                "mediumRetina": {
+                    "title": "0326 Dragons & Fairies_caruselv02_1200x750.png",
+                    "path": "assets/4g6TTnJTHcdRPZ13svtq4u/ae353f0bc1e26608494211734833533a/0326_Dragons___Fairies_caruselv02_1200x750.png?w=720&h=450&f=center&fit=fill",
+                    "width": 720,
+                    "height": 450
+                },
+                "large": {
+                    "title": "0326 Dragons & Fairies_caruselv02_1200x750.png",
+                    "path": "assets/4g6TTnJTHcdRPZ13svtq4u/ae353f0bc1e26608494211734833533a/0326_Dragons___Fairies_caruselv02_1200x750.png?w=960&h=600&f=center&fit=fill",
+                    "width": 960,
+                    "height": 600
+                },
+                "largeRetina": {
+                    "title": "0326 Dragons & Fairies_caruselv02_1200x750.png",
+                    "path": "assets/4g6TTnJTHcdRPZ13svtq4u/ae353f0bc1e26608494211734833533a/0326_Dragons___Fairies_caruselv02_1200x750.png?w=1200&h=750&f=center&fit=fill",
+                    "width": 1200,
+                    "height": 750
+                }
+            }
+        },
+        {
+            "id": "Cg69iUa8GZp0A8vec1uSG",
+            "metadata": {
+                "id": "Cg69iUa8GZp0A8vec1uSG",
+                "publishedAt": "2025-09-03T10:51:01.207Z",
+                "publishedVersion": 67
+            },
+            "targeting": null,
+            "postDate": 1756474852806,
+            "sortDate": 1738364400000,
+            "lang": "en",
+            "title": "_",
+            "ctas": [
+                {
+                    "title": null,
+                    "type": "url",
+                    "urlType": "url",
+                    "id": "5rZemL7S7ECvzUtseREoaz",
+                    "order": "0",
+                    "variant": "red",
+                    "url": "https://www.youtube.com/@BrawlStars",
+                    "label": "YouTube"
+                },
+                {
+                    "title": null,
+                    "type": "url",
+                    "urlType": "url",
+                    "id": "2yeeiFSPaKAXtbfgjlEdaB",
+                    "order": "1",
+                    "variant": "pink",
+                    "url": "https://www.tiktok.com/@brawlstars",
+                    "label": "TikTok"
+                }
+            ],
+            "relatedMedia": [],
+            "type": "eventEntry",
+            "displayTimer": false,
+            "timerTarget": 1777048946443,
+            "hideTitle": true,
+            "background": {
+                "small": {
+                    "title": "0512_Social_Media_Carrousel_(In-game)_1200x750_YT_TT.png",
+                    "path": "assets/4g1yOUawuzClwvYO17AikP/c67614c40201e7385121f397d10eaeab/0512_Social_Media_Carrousel__In-game__1200x750_YT_TT.png?w=240&h=150&f=center&fit=fill",
+                    "width": 240,
+                    "height": 150
+                },
+                "smallRetina": {
+                    "title": "0512_Social_Media_Carrousel_(In-game)_1200x750_YT_TT.png",
+                    "path": "assets/4g1yOUawuzClwvYO17AikP/c67614c40201e7385121f397d10eaeab/0512_Social_Media_Carrousel__In-game__1200x750_YT_TT.png?w=480&h=300&f=center&fit=fill",
+                    "width": 480,
+                    "height": 300
+                },
+                "medium": {
+                    "title": "0512_Social_Media_Carrousel_(In-game)_1200x750_YT_TT.png",
+                    "path": "assets/4g1yOUawuzClwvYO17AikP/c67614c40201e7385121f397d10eaeab/0512_Social_Media_Carrousel__In-game__1200x750_YT_TT.png?w=600&h=375&f=center&fit=fill",
+                    "width": 600,
+                    "height": 375
+                },
+                "mediumRetina": {
+                    "title": "0512_Social_Media_Carrousel_(In-game)_1200x750_YT_TT.png",
+                    "path": "assets/4g1yOUawuzClwvYO17AikP/c67614c40201e7385121f397d10eaeab/0512_Social_Media_Carrousel__In-game__1200x750_YT_TT.png?w=720&h=450&f=center&fit=fill",
+                    "width": 720,
+                    "height": 450
+                },
+                "large": {
+                    "title": "0512_Social_Media_Carrousel_(In-game)_1200x750_YT_TT.png",
+                    "path": "assets/4g1yOUawuzClwvYO17AikP/c67614c40201e7385121f397d10eaeab/0512_Social_Media_Carrousel__In-game__1200x750_YT_TT.png?w=960&h=600&f=center&fit=fill",
+                    "width": 960,
+                    "height": 600
+                },
+                "largeRetina": {
+                    "title": "0512_Social_Media_Carrousel_(In-game)_1200x750_YT_TT.png",
+                    "path": "assets/4g1yOUawuzClwvYO17AikP/c67614c40201e7385121f397d10eaeab/0512_Social_Media_Carrousel__In-game__1200x750_YT_TT.png?w=1200&h=750&f=center&fit=fill",
+                    "width": 1200,
+                    "height": 750
+                }
+            }
+        }
+    ],
+    "articles": [
+        {
+            "id": "CH23nvT4TE05MbjGHohnV",
+            "index": 0,
+            "targeting": null,
+            "metadata": {
+                "id": "CH23nvT4TE05MbjGHohnV",
+                "publishedVersion": 93,
+                "publishedAt": "2026-04-24T11:58:17.545Z"
+            },
+            "postDate": 1776835519070,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "Release Notes April 2026",
+            "categories": [
+                {
+                    "title": "Release Notes",
+                    "color": "#62D43F",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1776978000000,
+            "relatedMedia": [],
+            "type": "newsEntry",
+            "listingSize": "large",
+            "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+            "thumbnail": {
+                "small": {
+                    "title": "0327 Shop Rework inbox 800x433.png",
+                    "path": "assets/update_67/0327_Shop_Rework_inbox_800x433.png?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "0327 Shop Rework inbox 800x433.png",
+                    "path": "assets/update_67/0327_Shop_Rework_inbox_800x433.png?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "0327 Shop Rework inbox 800x433.png",
+                    "path": "assets/update_67/0327_Shop_Rework_inbox_800x433.png?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "0327 Shop Rework inbox 800x433.png",
+                    "path": "assets/update_67/0327_Shop_Rework_inbox_800x433.png?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "0327 Shop Rework inbox 800x433.png",
+                    "path": "assets/update_67/0327_Shop_Rework_inbox_800x433.png?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "0327 Shop Rework inbox 800x433.png",
+                    "path": "assets/update_67/0327_Shop_Rework_inbox_800x433.png?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            },
+            "heroImage": {
+                "small": {
+                    "title": "0327 Shop Rework banner 1600x443.png",
+                    "path": "assets/update_67/0327_Shop_Rework_banner_1600x443.png?w=320&h=89&f=center&fit=fill",
+                    "width": 320,
+                    "height": 89
+                },
+                "smallRetina": {
+                    "title": "0327 Shop Rework banner 1600x443.png",
+                    "path": "assets/update_67/0327_Shop_Rework_banner_1600x443.png?w=640&h=177&f=center&fit=fill",
+                    "width": 640,
+                    "height": 177
+                },
+                "medium": {
+                    "title": "0327 Shop Rework banner 1600x443.png",
+                    "path": "assets/update_67/0327_Shop_Rework_banner_1600x443.png?w=800&h=222&f=center&fit=fill",
+                    "width": 800,
+                    "height": 222
+                },
+                "mediumRetina": {
+                    "title": "0327 Shop Rework banner 1600x443.png",
+                    "path": "assets/update_67/0327_Shop_Rework_banner_1600x443.png?w=960&h=266&f=center&fit=fill",
+                    "width": 960,
+                    "height": 266
+                },
+                "large": {
+                    "title": "0327 Shop Rework banner 1600x443.png",
+                    "path": "assets/update_67/0327_Shop_Rework_banner_1600x443.png?w=1280&h=354&f=center&fit=fill",
+                    "width": 1280,
+                    "height": 354
+                },
+                "largeRetina": {
+                    "title": "0327 Shop Rework banner 1600x443.png",
+                    "path": "assets/update_67/0327_Shop_Rework_banner_1600x443.png?w=1600&h=443&f=center&fit=fill",
+                    "width": 1600,
+                    "height": 443
+                }
+            },
+            "details": [
+                {
+                    "title": "Shop Rework",
+                    "type": "textBlock",
+                    "body": "<p>The Shop has been completely redesigned to make it easier to discover offers, navigate between sections, and find exactly what you&#39;re looking for!</p><p>The Shop is now divided into tabs, each with its own selection of offers. If a tab has no active offers, it stays hidden to keep things tidy. When you scroll through a tab, it minimizes in size to give you more room to browse.</p><ul><li><p>Up to 7 tabs can be displayed at a time.</p></li><li><p>Tapping on an offer brings up an Expanded View where you can see more information about each item in the offer.</p></li><li><p>Each item now has a description in Expanded View.\n</p></li></ul><p><b>Oddities Shop</b></p><p>A brand-new way to score Skins for Bling with personalized offers refreshing every day!</p><p>Every 24 hours, new Skin bundles become available for Bling, and every 48 hours there is a new Bling offer for Gems. Offers are personalized for each player.</p><ul><li><p>Tap to reveal the offers each day to get 10 Bling per tap.</p></li><li><p>Players will have a higher chance of receiving Skins for their frequently played Brawlers, Brawlers they recently unlocked, or Brawlers they already have at Power Level 11.</p></li><li><p>Bundles:</p></li><li><p>Offer types: Normal (1 Skin and 2 minor rewards) and Large (2 Skins and 4 minor rewards).</p></li><li><p>Skin reward types: a specific Skin or choose from a rarity tier.</p></li><li><p>Minor reward types: Starr Drop (Random), Starr Drop (Legendary), Hypercharge Starr Drop, Chaos Drop, Trophy Box (Small to Omega), Megabox, Angel Drop, Demon Drop, Sushi Roll, Mech Box, Pin, Spray, Icon.</p></li><li><p>Discounts range from 0% to 100% off.</p></li></ul><p>Juju is there and reacts to you with a voice line, speech bubble, and pose! </p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "NEW Brawlers",
+                    "type": "textBlock",
+                    "body": "<h3><b>Damian - Mythic - Tank</b></h3><p>Damian LOVES to make noise. He fronts a band with his brother Draco, but music puts him into an uncontrollable rage, where he destroys anything in sight! His shows usually end with him smashing everything near the stage… including other Brawlers.</p><ul><li><p><b>Trait:</b> Charges Super from damage received.</p></li><li><p><b>Attack (Power Trio):</b> Damian throws a vicious punch. After 2 punches in a row, his next attack is an explosive kick that knocks back enemies and sets them on fire. After a delay, this fire explodes and spreads to nearby enemies.</p></li><li><p><b>Super (Mosh Pit):</b> Damian leaps and creates a personal Mosh Pit. Inside the pit, enemies are knocked back when hitting speakers, dealing 1400 Damage.</p></li><li><p><b>Gadget (Spiritual Healing):</b> Damian throws his microphone to a target location. The first teammate to pick it up is healed.</p></li><li><p><b>Gadget (Wall of Sound):</b> Damian summons a temporary wall of indestructible amps. </p></li><li><p><b>Star Power (Crowdkill):</b> Knocking a target into a wall stuns them.</p></li><li><p><b>Star Power (Vulgar Display of Punch):</b> Damian has a flaming fist during his Super, which burns enemies.</p></li><li><p><b>Hypercharge (Jump in the Fire):</b> Damian&#39;s Super also sets the ground on fire when he lands, dealing damage per second to enemies caught in his mosh pit!</p></li></ul><p></p><h3><b>Starr Nova - Mythic - Assassin</b></h3><p>A cosplayer who believes they are the anime character Starr Nova! This can get a bit awkward, as she believes problems in the real world can also be solved by hitting them with a massive sword!</p><ul><li><p><b>Attack (Nova Hair, Go!):</b> Starr Nova uses her glorious anime hair as a weapon, firing 2 blonde projectiles.</p></li><li><p><b>Super (Nova Crystal, Transform!):</b> Starr Nova dashes and transforms into her ultimate form, conjuring her Nova sword! She gains movement speed, converts dealt damage to health, and her main attack changes shape. Transformation lasts 7 sec.</p></li><li><p><b>Gadget (Floaty Time):</b> Starr Nova deploys an anti-gravity device, allowing teammates to float inside of the area!</p></li><li><p><b>Gadget (Shining Starr of Friendship and Justice):</b> Starr Nova fires an energy ball that damages enemies and heals teammates. This energy ball can also be teleported to before it hits a target!</p></li><li><p><b>Star Power (Power Level: Maximum):</b> Hitting an enemy Brawler while transformed increases your damage by 5% to a maximum of 30%.</p></li><li><p><b>Star Power (Mystical Starr Technique):</b> Starr Nova&#39;s main attack also heals teammates.</p></li></ul><p></p><h3><b>Bolt - Epic - Tank</b></h3><p>Bolt is a toy from the Battle Bumperz line, designed to deal damage by rolling into things! Though built to battle, he has always wanted to be a race car, reaching dangerous speeds to live out his dreams. Don&#39;t get in his way!\n</p><ul><li><p><b>Trait:</b> Movement speed increases while moving.</p></li><li><p><b>Attack (Battle Bumper):</b> Bolt can deal damage by rolling into other Brawlers! The faster his speed, the higher his damage. With his main attack Bolt vents excess heat, dealing double his rolling damage as area damage and gaining speed!</p></li><li><p><b>Super (Overdrive):</b> Bolt goes into overdrive, gaining speed and damage reduction, leaving a damaging trail behind him.</p></li><li><p><b>Gadget (Oil Change):</b> Bolt gains a health shield based on his current speed.</p></li><li><p><b>Gadget (Bouncy Ball):</b> Bolt jumps to a target location and deals area damage. Breaks environments but loses all speed when landing.</p></li><li><p><b>Star Power (Toss Up):</b> Bolt will knock enemies upwards when he&#39;s at full speed.</p></li></ul><p><b>Star Power (Unstoppaball):</b> Bolt is immune to crowd control and gains 15% top speed during his Super. </p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Starr Nova Event",
+                    "type": "textBlock",
+                    "body": "<p>In the Starr Nova Event, players can unlock the Void Master Finx Skin for free and level up Starr Girl Transformations to be used in selected game modes. The Transformation modifier is active in Featured Game Modes and randomly selected Trophy Modes.</p><ul><li><p>When the Starr Nova modifier is active, crystals spawn during the match. Collect one to transform into one of 5 Starr Girls for a limited time.</p></li><li><p>Starr Girls have a unique kit (variants of Starr Nova, Spike, Bea, Juju, Amber) and are much stronger than the base Brawler.</p></li><li><p>The Transformation has a telegraphed visual effect before it completes.</p></li><li><p>There are 2 modifiers: one with Starr Nova and one without (she will be introduced during the event).</p></li><li><p>Starr Girls start at Power Level 11 and can be upgraded to Power Level 30 by opening Nova Drops.</p></li><li><p>Exception: Starr Nova starts at Max Power. Starr Nova’s crystal is introduced in Week 2 of the event.</p></li><li><p>Getting a Starr Girl level up from a Nova Drop gives a damage activation for that girl on the Event screen. Tapping it triggers an attack which deals damage to Finx. Deal enough damage to Finx and you will earn his Skin! After unlocking the Void Master Finx Skin, you receive fallback rewards instead.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "NEW Buffies",
+                    "type": "textBlock",
+                    "body": "<h3><b>Colette</b></h3><ul><li><p><b>Gadget 1: Na-ah! [REWORK]</b></p><ul><li><p>Colette fires a projectile that charms a Brawler for 1 sec. Uses. ammo.</p></li><li><p><b>Buffied:</b> The projectile pierces environments and Brawlers.</p></li></ul></li><li><p><b>Gadget 2: Gotcha! [REWORK]</b></p><ul><li><p>Colette fires a projectile that heals for 80% of damage dealt. Uses ammo and can be fired 3 times before cooldown.</p></li><li><p><b>Buffied:</b> Can overheal, creating a shield of 1000 maximum health.</p></li></ul></li><li><p><b>Star Power 1: Push It</b></p><ul><li><p>All enemy Brawlers hit by Colette&#39;s Super are carried to the farthest point of the attack. At max distance, they are stunned for 0.2 sec.</p></li><li><p><b>Buffied:</b> Her Super dash speed is very fast!</p></li></ul></li><li><p><b>Star Power 2: Mass Tax</b></p><ul><li><p>Colette takes 75% less damage during her Super and gains a 30% damage reduction shield if she hits a Brawler.</p></li><li><p><b>Buffied:</b> Colette’s Super steals 33% of ammo from any Brawlers hit.</p></li></ul></li><li><p><b>Buffied Hypercharge: Teen Spirit</b></p><ul><li><p>Colette&#39;s main attack is followed by a similar, smaller main attack dealing lesser damage.</p></li></ul></li></ul><p></p><h3><b>Griff</b></h3><ul><li><p><b>Gadget 1: Piggy Bank</b></p><ul><li><p>Griff throws a piggy bank that explodes after a short time, dealing damage, destroying the environment around it, and knocking back Brawlers.</p></li><li><p><b>Buffied:</b> Griff can shoot the piggy bank with his main attack, causing it to have a progressively higher explosion radius and damage. The piggy bank will explode when it’s fully charged.</p></li></ul></li><li><p><b>Gadget 2: Coin Shower [REWORK]</b></p><ul><li><p>Griff throws a shower of coins at a target area, dealing continuous damage to Brawlers inside.</p></li><li><p><b>Buffied:</b> The coin shower grows in size throughout its duration.</p></li></ul></li><li><p><b>Star Power 1: Keep the Change [REWORK]</b></p><ul><li><p>Griff gains a slightly wider attack with an additional row of coins.</p></li><li><p><b>Buffied:</b> Attacks fired with full ammo also have a mega coin that deals extra damage in the center.</p></li></ul></li><li><p><b>Star Power 2: Business Resilience</b></p><ul><li><p>Griff heals 15% of missing health every 2 seconds.</p></li><li><p><b>Buffied:</b> When Griff&#39;s Super projectiles return, they heal Griff for 5% of his missing health.</p></li></ul></li><li><p><b>Buffied Hypercharge: Tax Rebate</b></p><ul><li><p>Griff&#39;s main attack now also pierces enemies during Hypercharge.\n</p></li></ul></li></ul><h3><b>Edgar</b></h3><ul><li><p><b>Gadget 1: Let&#39;s Fly [REWORK]</b></p><ul><li><p>Edgar throws out his scarves, latching onto the closest Brawler or wall. Edgar jumps behind any Brawler hit or jumps over any wall hit.</p></li><li><p><b>Buffied:</b> Edgar also gains a speed boost for a short time when successfully latching onto a wall or Brawler.</p></li></ul></li><li><p><b>Gadget 2: Hardcore</b></p><ul><li><p>Edgar gets a shield that protects him from the next 3700 damage. The shield gets weaker over time.</p></li><li><p><b>Buffied:</b> He also gets immunity to Crowd Control for 1 sec.</p></li></ul></li><li><p><b>Star Power 1: Hard Landing</b></p><ul><li><p>Edgar deals damage to nearby enemies when landing using his Super or “Let’s Fly” Gadget. Brawlers closer to the center of landing take more damage.</p></li><li><p><b>Buffied:</b> Hitting a Brawler with the epicenter also charges Edgar&#39;s Super.</p></li></ul></li><li><p><b>Star Power 2: Fisticuffs</b></p><ul><li><p>Increases healing from basic attacks by 30%.</p></li><li><p><b>Buffied:</b> Scoring a Brawler takedown also heals Edgar for a percentage of max HP instantly.</p></li></ul></li><li><p><b>Buffied Hypercharge: Outburst</b></p><ul><li><p>Edgar now throws 2 additional scarves at longer range, dealing lesser damage. Enemies at close range can be hit by both the basic scarves and the Hypercharge scarves.</p></li></ul></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "NEW Hypercharge",
+                    "type": "textBlock",
+                    "body": "<p><b>Najia Hypercharge (Unlimited Power!):</b> Najia throws 6 jars for her Super, and the snakes from those jars leave a poison trail. </p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Seasons & Skins",
+                    "type": "textBlock",
+                    "body": "<h3><b>Season: Starr Patrol</b></h3><ul><li><p>STARR PATROL SPIKE | EPIC | Brawl Pass</p><ul><li><p>STARR SCOUT SPIKE | EPIC | Brawl Pass | Chroma #1</p></li><li><p>STARR GUARDIAN SPIKE | EPIC | Brawl Pass | Chroma #2</p></li></ul></li><li><p>VOID COLETTE | EPIC | Brawl Pass</p><ul><li><p>WHITE DWARF COLETTE | EPIC | Brawl Pass | Chroma #1</p></li><li><p>BLACK HOLE COLETTE | EPIC | Brawl Pass | Chroma #2</p></li></ul></li><li><p>STARR PATROL JUJU | MYTHIC | 149 Gems</p></li><li><p>STARR PATROL BEA | EPIC | 149 Gems</p></li><li><p>STARR PATROL AMBER | LEGENDARY | 299 Gems</p><ul><li><p>VOID AMBER | LEGENDARY | 299 Gems</p></li></ul></li><li><p>VOID MASTER FINX | MYTHIC | 199 Gems</p></li></ul><p></p><h3><b>Season: Brawl Strikers</b></h3><ul><li><p>SUPER BALL GENE | EPIC | Brawl Pass</p><ul><li><p>KEEPER GENE | EPIC | Brawl Pass | Chroma #1</p></li><li><p>SCORE STOPPER GENE | EPIC | Brawl Pass | Chroma #2</p></li></ul></li><li><p>SUPER BALL CARL | EPIC | Brawl Pass</p><ul><li><p>STRIKER CARL | EPIC | Brawl Pass | Chroma #1</p></li><li><p>KICKER CARL | EPIC | Brawl Pass | Chroma #2</p></li></ul></li><li><p>SUPER STRIKER LOU | LEGENDARY | 299 Gems</p></li><li><p>SCOREKEEPER SURGE | MYTHIC | 199 Gems</p></li><li><p>GRIDIRON OTIS | MYTHIC | 199 Gems</p></li><li><p>REFEREEPLE | MYTHIC | 199 Gems</p></li></ul><p></p><h3><b>Miscellaneous Skins</b></h3><p><b>My Hero Academia</b></p><ul><li><p>ALL MIGHT: EL PRIMO | LEGENDARY | 299 Gems</p></li><li><p>TOMURA SHIGARAKI: GUS | MYTHIC | 199 Gems</p></li><li><p>URAVITY: JANET | EPIC | 149 Gems</p></li><li><p>DEKU: FANG | EPIC | 149 Gems</p></li><li><p>BAKUGO: EDGAR | MYTHIC | 199 Gems</p></li></ul><p><b></b></p><p><b>Esports</b></p><ul><li><p>ESPORTS JACKY | EPIC | 149 Gems</p></li></ul><p><b></b></p><p><b>True Silver / Gold Skins</b></p><ul><li><p>TRUE GOLD NAJIA</p></li><li><p>TRUE SILVER NAJIA</p></li></ul><p>\n</p><h3><b>Skin Rework</b></h3><ul><li><p>Mythic and Legendary Skins now come with additional effects!</p></li><li><p>Polished Skin opening animations for different Skin rarities.</p></li><li><p>Except for My Hero Academia Skins, all new Skins will not come with Pins, Sprays, and Icons.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Balance Changes",
+                    "type": "textBlock",
+                    "body": "<h3><b>Buffs</b></h3><p><b><u>Lumi</u></b></p><ul><li><p>Main Attack projectile speed increased from 3200 to 3500.</p></li><li><p>Base Health increased from 3100 to 3500.</p></li></ul><p><i>Lumi’s been one of the most underperforming Brawlers for the past few months, to a fairly massive degree. As such we want to give her some changes to let her core kit shine, with the goal of letting her deploy the utility/space control of her gadgets faster, as well as more ability to trade with increased base health.</i></p><p><b><u>Lola</u></b></p><ul><li><p>Super damage falloff reduced from 50% to 35% when Ego is near Lola.</p></li></ul><p><i>Lola has been performing fairly average to below average, and could use some love to help her feel more competitive. The aim of these changes is to give her more power in space control with Ego, as well as making it more forgiving to use.</i></p><p><b><u>Fang</u></b></p><ul><li><p>Base Health increased from 4500 to 4800.</p></li></ul><p><i>Fang is a little bit too feast or famine at the moment. The goal with this change is to let him more safely play aggressive and pressure/out trade more Brawlers.</i></p><p><b><u>Surge</u></b></p><ul><li><p>Super charge rate gained from Super increased from 70 to 75.</p></li></ul><p><i>Surge is nearly in a healthy spot, just needing a little bit more oomph to let him ramp faster and have more presence. This change will aid him in pressing his advantage when using Super aggressively making for easier looping/cycling.</i></p><p><b><u>Maisie</u></b></p><ul><li><p>Star Power - Pinpoint Precision damage increased from 20% to 25%.</p></li></ul><p><i>Marksman is a fairly competitive field these days, and Maisie is falling just behind the curve. With a bit more damage at max range, she should hopefully be able to compete a bit more with other popular Brawlers.</i></p><p><b><u>Draco</u></b></p><ul><li><p>Super damage resistance increased from 15% to 20%.</p></li><li><p>Super movement speed increased from 15% to 20%.</p></li></ul><p><i>In a tank heavy meta, Draco just isn’t tanky/threatening enough to compete with the rest. These changes will aid in him claiming back some of that space he used to have with incredible pressure and space control once he’s ramped into Super.</i></p><p><b><u>Jae-Yong</u></b></p><ul><li><p>Gadget - Time for a Slow Song cooldown reduced from 15s to 12s.</p></li></ul><p><i>Overall Jae is doing good, but his gadgets are feeling pretty uneven in power for most cases and the aim here is to make them both feel more competitive.</i></p><p><b><u>Darryl</u></b></p><ul><li><p>Super damage increased from 400 to 660.</p></li></ul><p><i>Darryl is situationally very powerful, but could use more versatility and threat when there are some other VERY prominent tanks in the meta.</i></p><p><b><u>Gigi</u></b></p><ul><li><p>Main Attack movement speed bonus increased from 30% to 35%.</p></li><li><p>Main Attack max ammo increased from 8 to 10.</p></li></ul><p><i>Gigi could use a bit more mobility to aid her in dodging enemy projectiles, and chasing down enemy Brawlers. With these the aim is to let her more regularly use her main attack as a movement tool, and be able to deal with some larger health pool Brawlers.</i></p><p><b><u>Glowy</u></b></p><ul><li><p>Main Attack range increased from 20 to 22.</p></li></ul><p><i>The last round of changes were a bit too harsh on Glowy leaving him still a great healer but incredibly niche. Bringing him back to the middle ground to let him still have a wider impact but not over run every map.</i></p><h3><b>Nerfs</b></h3><p><b><u>Najia</u></b></p><ul><li><p>Najia’s main attack’s second projectile no longer auto-aims at enemy Brawlers after the first projectile is fired without input. Tapping at the right time still aims at the closest Brawler.</p></li><li><p>Snake base HP reduced from 1,600 to 1,200 for both Super and Star Power snakes.</p></li><li><p>Snakes summoned by her Super and Star Power no longer explode when defeated. They will only explode when striking enemy Brawlers.</p></li></ul><p><i>Najia’s main attack is incredibly forgiving, and FAR too useful as a tool for gathering information and scouting bushes. Additionally her snakes are super difficult to deal with for a high number of brawlers requiring multiple ammo to take them down, and Melee brawlers having little counterplay as they can’t destroy them safely. With all of these she should be more reliable for melee brawlers to deal with and sneak up on.</i></p><p><b><u>Leon</u></b></p><ul><li><p>Bug Fix: Movement speed bonus from Smoke Trails Star Power and Lollipop Drop no longer stack.</p></li><li><p>Base Health reduced from 3600 to 3300.</p></li></ul><p><i>Leon is consistently one of the highest performing Brawlers being a safe, consistent, damage threat and having amazing team buffs with his Gadget. With the recent bugfixes, and some base health reduction he should feel more like a glass cannon assassin that needs to rely on strong positioning to make the most of his kit.</i></p><p><b><u>Ziggy</u></b></p><ul><li><p>Main Attack projectile delay increased from 700 to 750.</p></li><li><p>Super charge rate reduced from 85 to 80.</p></li><li><p>Gadget - Electric Shuffle cooldown increased from 13s to 17s.</p></li></ul><p><i>Ziggy has quickly become one of the more powerful Brawlers in recent meta, mainly having much more consistency in landing his main attack making him an incredibly oppressive controller. We don’t want to fully roll back to where the main attack time was before it’s buff, but want to add a bit more time to allow for easier dodging. In addition his Electric Shuffle Gadget provides a ton of pressure and needs a bit longer cooldown for that amount of power it has.</i></p><p><b><u>Grom</u></b></p><ul><li><p>Main Attack damage reduced from 1140 to 1040.</p></li><li><p>Star Power - X-Factor extra damage increased from 30% to 35%.</p></li></ul><p><i>Grom has been a progressing player demon for ages, but as of recent has been climbing in both usage and win rate in higher levels. As of recently, he has even become a top 15 win rate Brawler in Legend 3+ ranked matches. The aim of these changes is to allow him to still hold onto a majority of his power, but move it to have a higher skill requirement in landing his damage to relieve some of that pressure he applies to progressing players but allow high level players the ability to succeed with him.</i></p><p><b><u>Mortis</u></b></p><ul><li><p>Star Power - Coiled Snake damage reduction reduced from 40% to 35%.</p></li></ul><p><i>Mortis is a mega popular Brawler, in addition to that however he has still been holding a very high win rate. This change will make him feel a bit less comfortable when engaging enemies with his fully charged dash and push him to be more selective with his openings.</i></p><p><b><u>Pierce</u></b></p><ul><li><p>Super damage reduced from 1600 to 1400.</p></li><li><p>Star Power - Mission Swimpossible slow reduced from 30% to 25%.</p></li></ul><p><i>We finally found Pierce! With the introduction of his Hyper Charge his Super is feeling too oppressive, as well as Mission Swimpossible being his overwhelmingly dominant starpower . These changes should give him a slight nudge down in power, while still keeping his core kit feeling powerful.</i></p><p><b><u>Clancy</u></b></p><ul><li><p>Main Attack range reduced from 25 to 23.</p></li></ul><p><i>Crab was a BIT too over tuned with the last round of changes. Overall his stage 3 is feeling great and matches his fantasy well, but it’s become a bit too easy and reliable to get to with the additional range and HP from the last round of changes. Pulling back his range will lower the cases where he will be a good pick and his overall positive matchup spread leaving us with a more healthy crustacean.</i></p><p><b><u>BiBi</u></b></p><ul><li><p>Star Power - Home Run attack bonus damage reduced from 20% to 15%.</p></li><li><p>Gadget - Vitamin Booster healing from next attack reduced from 60% to 50%.</p></li></ul><p><i>BiBi is still an absolute terror, boasting the highest win rate in upper levels of play even after the last round of changes. With a reduction to her burst and survivability BiBi should be more regularly landing triples instead of home runs with a higher chance at getting struck out.</i></p><h3><b>Changes</b></h3><ul><li><p>The poison cloud now deals extra damage to Brawlers standing inside it. The deeper you are in the poison cloud, the higher the damage!</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Maps, Game Modes, Environments & Rotation Changes",
+                    "type": "textBlock",
+                    "body": "<h3><b>Boss Fights: Void Colette &amp; Void Master Finx</b></h3><p>Two brand-new Boss Fights are here with all-new challenges! All Boss Fights are now 5 players.</p><p>Void Colette: Hunt down dark book nests or risk being overrun by mini Void Colettes!</p><p>Void Master Finx: A two-phased Boss Fight. When Finx is defeated the first time, he comes back even stronger as the Void Master! A central tower alternates between aiding and hurting the Brawlers. Finx also spawns his cat friends (Kit) to help take down the Brawlers.</p><ul><li><p>Speedrun Score: After defeating the Boss at the greatest difficulty, you can see your best time at that score.</p></li><li><p>When a teammate is defeated, they now drop all of their Power Cubes instead of only half.</p></li></ul><p></p><h3><b>New Seasonal Game Modes</b></h3><p><b>Adidas Event</b></p><p>Brawl Stars has teamed up with Adidas for a limited-time football community event! Take to the pitch in the all-new Super Ball mode, compete in the Adidas Super Starr Cup, and play in a brand-new Adidas Arena environment!\n</p><p><b>Super Brawl Ball:</b>\n\nA supercharged take on Brawl Ball with new mechanics that reward teamwork and precision!</p><ul><li><p>Brawlers can perform charged shots when holding the Ball.</p></li><li><p>Holding attack charges up the shot.</p></li><li><p>Max charge damages Brawlers.</p></li><li><p>The charge persists when a friendly player picks up a charged ball for a brief moment (rapid passing).</p></li><li><p>Goalkeeper:</p></li><li><p>Both teams have a goalkeeper.</p></li><li><p>The goalkeeper can move in an area close to their respective goal.</p></li><li><p>They always move to be between the goal and the ball.</p></li><li><p>They automatically save any shots that go close enough bouncing the ball off them like a wall.</p></li><li><p>They can be defeated, causing them to be stunned for a short time.</p></li></ul><p></p><h3><b>Environments</b></h3><p><b>Removed:</b></p><ul><li><p>Bizarre Circus</p></li><li><p>Ice Island</p></li><li><p>Retropolis</p></li><li><p>Rumble Jungle</p></li><li><p>Stunt Show</p></li><li><p>Tara&#39;s Bazaar</p></li></ul><p><b>Added:</b></p><ul><li><p>Adidas Arena (New)</p></li><li><p>(Super Ball) Grassfield</p></li><li><p>Biodome</p></li><li><p>Gift Shop</p></li><li><p>Oddities Shop</p></li><li><p>Poco&#39;s Bandstand</p></li><li><p>Pyramid Quest Showdown (New)</p></li><li><p>Scrapyard Showdown (New)</p></li><li><p>Starr Toons</p></li><li><p>Starr Toons Showdown (New)</p></li><li><p>Tropical Island</p></li></ul><h3><b>Maps</b></h3><p>\n<b>Super Ball</b></p><ul><li><p>Adidas Arena:</p><ul><li><p>Impossible Arena</p></li><li><p>Keeper’s Corner</p></li><li><p>Kickoff Coliseum</p></li><li><p>Goalmouth Scramble</p></li></ul></li><li><p>Grassfield:</p><ul><li><p>Backnet Bonanza</p></li><li><p>Fox in the Box</p></li><li><p>Penalty Park</p></li><li><p>Midfield Madness\n</p></li></ul></li></ul><h3><b>Ranked</b></h3><p></p><p><b>Season 1</b></p><ul><li><p>Featured game mode: Hot Zone</p></li><li><p>Featured maps: In the Liminal, Quick Travel</p></li><li><p>Free Brawler Rotation:</p></li><li><p>Epic: Grom</p></li><li><p>Mythic: Mina</p></li><li><p>Legendary: Crow\n</p></li></ul><p><b>Season 2</b></p><ul><li><p>Featured game mode: Knockout</p></li><li><p>Featured maps: Flowing Springs, Goldarm Gulch</p></li><li><p>Free Brawler Rotation:</p></li><li><p>Epic: Bea</p></li><li><p>Mythic: Finx</p></li><li><p>Legendary: Spike</p></li></ul><p></p><p><b>Brawl Arena\n</b>A fresh round of Brawl Arena-specific balance changes are here to keep competitive play fair and exciting!</p><p></p><p><b><u>Pierce</u></b></p><ul><li><p>Damage reduced from 4% to 2%</p></li><li><p>Reload reduced from 100 to 50</p></li></ul><p><b><u>Mortis</u></b></p><ul><li><p>Reload reduced from 200 to 150</p></li><li><p>Health reduced from 650 to 500</p></li></ul><p><b><u>EMZ</u></b></p><ul><li><p>Damage reduced from 2% to 1%</p></li></ul><p><b><u>Sirius</u></b></p><ul><li><p>Movement Speed reduced from 8 to 6</p></li></ul><p><b><u>Colt</u></b></p><ul><li><p>Damage reduced from 6% to 3%</p></li></ul><p><b><u>Tick</u></b></p><ul><li><p>Damage reduced from 8% to 7%</p></li><li><p>Reload reduced from 250 to 225</p></li></ul><p><b><u>BiBi</u></b></p><ul><li><p>Health reduced from 750 to 650</p></li><li><p>Damage reduced from 4% to 3%</p></li></ul><p><b><u>Shade</u></b></p><ul><li><p>Health reduced from 450 to 350</p></li></ul><p><b><u>Jae-Yong</u></b></p><ul><li><p>Reload increased from 2 to 200 (yes, it was really 2 😅)</p></li></ul><p><b><u>Jacky</u></b></p><ul><li><p>Damage increased from 2% to 4%</p></li><li><p>Reload increased from 150 to 200</p></li></ul><p><b><u>Ash</u></b></p><ul><li><p>Damage increased from 2% to 3%</p></li></ul><p><b><u>Finx</u></b></p><ul><li><p>Reload increased from 200 to 300</p></li></ul><p><b><u>Eve</u></b></p><ul><li><p>Damage increased from 4% to 5%</p></li></ul><p><b><u>Lola</u></b></p><ul><li><p>Damage increased from 4% to 5%</p></li><li><p>Reload increased from 150 to 200</p></li></ul><p><b><u>Mico</u></b></p><ul><li><p>Reload increased from 200 to 300</p></li></ul><p><b><u>Max</u></b></p><ul><li><p>Damage increased from 5% to 6%</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Permanent Improvements & QoL Features",
+                    "type": "textBlock",
+                    "body": "<p>Some great new social features and improvements are coming to make your Brawl Stars experience even better!\n</p><p><b>Favorite Friends (coming later in the update): </b></p><ul><li><p>Add Friends to your Favorite list and get notifications when they are online to play together!</p></li><li><p>Added settings to mute Friend Online Notifications and the option to go incognito so others won&#39;t receive Friend Online Notifications from you.</p></li></ul><p><b>Modernized Friends Screen (coming later in the update):</b></p><ul><li><p>You can now sort your friends by: Wins together, total Trophies, total Prestige, Rank, and online status.</p></li><li><p>Fixed the &quot;Wins together&quot; stat. The game will now track the correct wins together with your friends.</p></li><li><p>You can add a short note to your friend so you can remember why you added them or who they are (only you can see this).</p></li><li><p>From the Friend menu you can select settings for &quot;Block Friend Requests&quot; and &quot;Receive notifications from favorite friends.&quot;</p></li><li><p>Updated Suggested Friends, which will also suggest Friends from Game Center.\n</p></li></ul><p><b>Reporting in Trophy Games:</b> </p><p>The reporting function has been added to Trophy Games (previously only available in Ranked).</p><ul><li><p>Players now have Reputation for Trophy Games (separate from Ranked).</p></li><li><p>If players receive too many reports for Grief Play or Cheating, they are temporarily suspended from Trophy Games. Bad Random reports have no effect on Reputation.</p></li><li><p>Players first receive a warning, and as reports increase the player gets a cooldown or suspension. If the player keeps being reported, the suspension time increases.</p></li><li><p>When suspended from Trophy Games, players can still play Solo Showdown and Map Maker maps.</p></li><li><p>MegaPig and Release Events also support reporting and cooldown.</p></li><li><p>Reputation regenerates through clean matches (no reports received per clean Trophy mode).\n</p></li></ul><p><b>Skin VFX Improvements:</b></p><ul><li><p>Shiba Inu Nita has received a full visual effects overhaul! Previously, this fan-favorite skin was missing custom VFX on her basic attack and ultimate projectile, two of the effects you see most often in-game. New Shiba-themed basic attack VFX, a completely reworked ultimate projectile with an adorable new Shiba design, and overall VFX brought up to modern Brawl Stars standards.</p></li><li><p>Look for Shiba Inu Nita in the shop during the Golden Week celebration!\n</p></li></ul><p><b>Legacy Skin VFX Updates:</b></p><ul><li><p>We&#39;re exploring ways to revisit some older skins whose visual effects haven&#39;t aged as well. Shiba Inu Nita is the first skin to receive this treatment, and we may update additional legacy skins in the future when the timing and opportunity are right. Stay tuned!\n</p></li></ul><p><b>Miscellaneous:</b></p><ul><li><p>The Buffie Machine is now per Trio (3 Brawlers) so you have a better chance of getting the Buffie you want!</p></li><li><p>A random Buffie offer will be available in the Shop for 14 days after the update launches.</p></li><li><p>Ball behavior has been updated in Brawl Ball and Brawl Hockey using physics-based calculation. It should feel slightly different when shooting the ball or puck but with similar distance and timing. This fixes issues with the ball occasionally spinning out of control when the environment was destroyed.</p></li><li><p>Prestige Battle Cards added for 100 and 200 Prestiges.</p></li><li><p>Fang&#39;s basic attack indicator now displays the additional range granted by his shoe.</p></li><li><p>Changed the Dragonforce sign to now say “Dragonforge”.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Bug Fixes",
+                    "type": "textBlock",
+                    "body": "<p><b>General Fixes</b></p><ul><li><p>Fixed occasional Duo/Trio long matchmaking times.</p></li><li><p>Fixed a crash on Android when exiting the app via the back button and relaunching the game.</p></li></ul><p></p><p><b>Brawler Fixes</b></p><ul><li><p>Fixed an issue where Hank could perform an invisible attack by quickly circling the Main Attack.</p></li><li><p>Nita&#39;s Gadget &quot;Faux Fur&quot; description now matches in-game behavior.</p></li><li><p>Fixed an issue where throwing an item while under the control of Willow&#39;s &quot;Hex&quot; prevented Brawlers from using their Basic Attacks and Supers.</p></li><li><p>Fixed Willow&#39;s basic attack not charging Super after using the &quot;Spellbound&quot; Gadget.</p></li><li><p>Glowy&#39;s attack damage stat and next level DPS stats are now displayed correctly.</p></li><li><p>Fixed an issue where Gigi&#39;s Super was not charging itself while enemy projectiles were fired from within the Super&#39;s charge range.</p></li><li><p>Fixed an issue where increased movement speed from Leon&#39;s &quot;Smoke Trails&quot; Star Power incorrectly stacked with the increased movement speed from the &quot;Lollipop Drop&quot; Gadget.</p></li><li><p>Fixed various SFX issues including: Maisie&#39;s Dragon Skin playing the main attack sound both on start and end, Frank&#39;s attack sound triggering twice, and Inflatable Melodie Skin SFX missing.</p></li><li><p>Fixed an issue where Gene&#39;s Super and Gray&#39;s Gadget could bypass crowd control immunity.</p></li><li><p>Fixed a bug where Brawler clones summoned by Sirius could attack indefinitely when copying a Brawler with multiple attack types, such as Kenji.</p></li><li><p>Fixed an issue where Doug&#39;s Hypercharged Basic Attack could hit enemies below Janet while she was in flight.</p></li><li><p>Fixed an issue where Spike&#39;s Popping Pincushion Gadget was not applying distance-based damage scaling to both regular and Buffied versions.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                }
+            ]
+        },
+        {
+            "id": "2gzIgQREUED62TG9UJR1Yv",
+            "index": 1,
+            "targeting": null,
+            "metadata": {
+                "id": "2gzIgQREUED62TG9UJR1Yv",
+                "publishedVersion": 70,
+                "publishedAt": "2026-04-21T09:49:20.291Z"
+            },
+            "postDate": 1776424633809,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "Watch Damian's Music Video!",
+            "categories": [
+                {
+                    "title": "Video",
+                    "color": "#932EF4",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1776891600000,
+            "relatedMedia": [],
+            "type": "videoNewsEntry",
+            "embed": {
+                "id": "12NAtyl6j31AYF4QVXYeLZ",
+                "provider": "youtube",
+                "url": "https://youtu.be/Io1ZL0rc2Ac"
+            },
+            "embedVideo": false,
+            "listingSize": "large",
+            "thumbnail": {
+                "small": {
+                    "title": "0414 BrawlAlive inbox_800x433.jpg",
+                    "path": "assets/6gGhn6sa65ZrHISm9ZAqFf/16fd850b1183dd0b4b24266da85a7808/0414_BrawlAlive_inbox_800x433.jpg?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "0414 BrawlAlive inbox_800x433.jpg",
+                    "path": "assets/6gGhn6sa65ZrHISm9ZAqFf/16fd850b1183dd0b4b24266da85a7808/0414_BrawlAlive_inbox_800x433.jpg?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "0414 BrawlAlive inbox_800x433.jpg",
+                    "path": "assets/6gGhn6sa65ZrHISm9ZAqFf/16fd850b1183dd0b4b24266da85a7808/0414_BrawlAlive_inbox_800x433.jpg?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "0414 BrawlAlive inbox_800x433.jpg",
+                    "path": "assets/6gGhn6sa65ZrHISm9ZAqFf/16fd850b1183dd0b4b24266da85a7808/0414_BrawlAlive_inbox_800x433.jpg?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "0414 BrawlAlive inbox_800x433.jpg",
+                    "path": "assets/6gGhn6sa65ZrHISm9ZAqFf/16fd850b1183dd0b4b24266da85a7808/0414_BrawlAlive_inbox_800x433.jpg?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "0414 BrawlAlive inbox_800x433.jpg",
+                    "path": "assets/6gGhn6sa65ZrHISm9ZAqFf/16fd850b1183dd0b4b24266da85a7808/0414_BrawlAlive_inbox_800x433.jpg?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            }
+        },
+        {
+            "id": "1ngnYxZ13f9oWnAoLCswCr",
+            "index": 2,
+            "targeting": null,
+            "metadata": {
+                "id": "1ngnYxZ13f9oWnAoLCswCr",
+                "publishedVersion": 63,
+                "publishedAt": "2026-04-14T08:37:25.005Z"
+            },
+            "postDate": 1776155845005,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "#KEEPBRAWLALIVE COMMUNITY EVENT!",
+            "categories": [
+                {
+                    "title": "Community",
+                    "color": "#DB2EF4",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1777048946423,
+            "relatedMedia": [],
+            "type": "newsEntry",
+            "listingSize": "large",
+            "showInNewsFeed": "HIDE_IN_NEWS_FEED",
+            "thumbnail": {
+                "small": {
+                    "title": "0414 BrawlAlive inbox_800x433.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_inbox_800x433.png?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "0414 BrawlAlive inbox_800x433.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_inbox_800x433.png?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "0414 BrawlAlive inbox_800x433.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_inbox_800x433.png?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "0414 BrawlAlive inbox_800x433.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_inbox_800x433.png?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "0414 BrawlAlive inbox_800x433.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_inbox_800x433.png?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "0414 BrawlAlive inbox_800x433.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_inbox_800x433.png?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            },
+            "heroImage": {
+                "small": {
+                    "title": "0414 BrawlAlive banner_1600x443.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_banner_1600x443.png?w=320&h=89&f=center&fit=fill",
+                    "width": 320,
+                    "height": 89
+                },
+                "smallRetina": {
+                    "title": "0414 BrawlAlive banner_1600x443.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_banner_1600x443.png?w=640&h=177&f=center&fit=fill",
+                    "width": 640,
+                    "height": 177
+                },
+                "medium": {
+                    "title": "0414 BrawlAlive banner_1600x443.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_banner_1600x443.png?w=800&h=222&f=center&fit=fill",
+                    "width": 800,
+                    "height": 222
+                },
+                "mediumRetina": {
+                    "title": "0414 BrawlAlive banner_1600x443.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_banner_1600x443.png?w=960&h=266&f=center&fit=fill",
+                    "width": 960,
+                    "height": 266
+                },
+                "large": {
+                    "title": "0414 BrawlAlive banner_1600x443.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_banner_1600x443.png?w=1280&h=354&f=center&fit=fill",
+                    "width": 1280,
+                    "height": 354
+                },
+                "largeRetina": {
+                    "title": "0414 BrawlAlive banner_1600x443.png",
+                    "path": "assets/brawl_alive/0414_BrawlAlive_banner_1600x443.png?w=1600&h=443&f=center&fit=fill",
+                    "width": 1600,
+                    "height": 443
+                }
+            },
+            "details": [
+                {
+                    "title": "KEEP BRAWL ALIVE - COMMUNITY EVENT",
+                    "type": "textBlock",
+                    "body": "<p>You can get a free Buffie, the Royale Trunk skin, and more resources... BUT you gotta keep Brawl ALIVE!</p><p><b>Here’s how you can keep Brawl alive:</b></p><ul><li><p>You have to complete your 6 daily wins every day! The more people in the community complete them, the better the rewards!</p></li><li><p>This MEANS that once you&#39;re done with your goal, you need to tell your friend to do the same! The only way to achieve the best rewards is if more people complete their 6 daily wins!</p></li><li><p>There’s also an extra Chaos Drop every day if the community completes a daily social task.</p></li><li><p>There is a new social task every day, and it will be displayed on the community event screen.</p></li><li><p>Tasks could include liking a specific Brawl video on YouTube, tagging your favorite content creator on social media, commenting on something specific, and so on, so check the community event screen every day!</p></li><li><p>Throughout the whole event, there’ll be 2 guaranteed Chaos Drops on the last win of the day (to encourage the non-believers!).</p></li></ul><p><b>Rewards are:</b></p><ul><li><p>Chaos Drops</p></li><li><p>Power Points</p></li><li><p>Gems</p></li><li><p>Royale Trunk Skin</p></li><li><p>Starr Drops</p></li><li><p>Random Buffie</p></li><li><p>XP Doubler</p></li><li><p>Bling</p></li><li><p>PPXP</p></li><li><p>Trophy Box</p></li><li><p>2 Chaos Drops every day from the Daily Wins</p></li><li><p>Extra Chaos Drops every day from the social tasks</p></li></ul><p><b>GIVEAWAY:\n\n</b>Everyone who does their daily social task will also participate in our Gem giveaway! Every day, we’ll go through the list of players who have done the task, and 1 random lucky winner will get ONE HUNDRED THOUSAND Gems! There’ll be a different winner every day, so do your tasks!</p><p>The event starts TODAY and ends on April 24th at 8:00 AM UTC.</p><p>SO... Let’s #KEEPBRAWLALIVE</p>",
+                    "accordion": "no"
+                }
+            ]
+        },
+        {
+            "id": "55ir6dgBf88uGqHAUbXavx",
+            "index": 3,
+            "targeting": null,
+            "metadata": {
+                "id": "55ir6dgBf88uGqHAUbXavx",
+                "publishedVersion": 6,
+                "publishedAt": "2026-04-03T16:29:18.876Z"
+            },
+            "postDate": 1775233758876,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "Doug's Dogs is coming to Berlin",
+            "categories": [
+                {
+                    "title": "Esports",
+                    "color": "#F5AB32",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1777048946423,
+            "relatedMedia": [],
+            "type": "newsEntry",
+            "listingSize": "large",
+            "showInNewsFeed": "HIDE_IN_NEWS_FEED",
+            "thumbnail": {
+                "small": {
+                    "title": "THUMBNAIL_800x433.jpg",
+                    "path": "assets/4JKxdICKC42ckj5RZ2RDRs/32b466a18d883f41b263820cd0a1ff8e/THUMBNAIL_800x433.jpg?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "THUMBNAIL_800x433.jpg",
+                    "path": "assets/4JKxdICKC42ckj5RZ2RDRs/32b466a18d883f41b263820cd0a1ff8e/THUMBNAIL_800x433.jpg?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "THUMBNAIL_800x433.jpg",
+                    "path": "assets/4JKxdICKC42ckj5RZ2RDRs/32b466a18d883f41b263820cd0a1ff8e/THUMBNAIL_800x433.jpg?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "THUMBNAIL_800x433.jpg",
+                    "path": "assets/4JKxdICKC42ckj5RZ2RDRs/32b466a18d883f41b263820cd0a1ff8e/THUMBNAIL_800x433.jpg?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "THUMBNAIL_800x433.jpg",
+                    "path": "assets/4JKxdICKC42ckj5RZ2RDRs/32b466a18d883f41b263820cd0a1ff8e/THUMBNAIL_800x433.jpg?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "THUMBNAIL_800x433.jpg",
+                    "path": "assets/4JKxdICKC42ckj5RZ2RDRs/32b466a18d883f41b263820cd0a1ff8e/THUMBNAIL_800x433.jpg?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            },
+            "details": [
+                {
+                    "title": "Coming to Berlin: Doug’s Dogs!",
+                    "type": "textBlock",
+                    "body": "<p><b>On April 4th Doug is coming from Starr Park to Mauerpark, Berlin for one day only. From 12-6pm CEST, fans can come by and get a free currywurst!* He’ll be visited by some special guests including</b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540CutterAli')\"><b> Cutter Ali</b></a><b>,</b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540nunobs')\"><b> Nuno</b></a><b> and</b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540riwer')\"><b> Riwer_</b></a><b> as we celebrate Brawl Cup coming to Berlin!</b></p><p><b>Get tickets for Brawl Cup</b><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.axs.com%25252Fuk%25252Fteams%25252F1122174%25252Fbrawl-cup-tickets')\"><b> here</b></a><b> - tickets are selling out fast!</b></p><p><b>Stay up to date with all things Doug’s Dogs and Brawl Star Championship on our socials:</b></p><ul><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252FBrawl_esports')\"><b><u>X</u></b></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.instagram.com%25252Fbrawlstars_esports%25252F')\"><b><u>Instagram</u></b></a></p></li><li><p><a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fwww.youtube.com%25252F%252540BrawlStarsEsports')\"><b><u>YouTube</u></b></a></p></li></ul><p><i>*whilst stocks last</i></p>",
+                    "accordion": "no"
+                }
+            ]
+        },
+        {
+            "id": "3PiHx96nu38Wtt6BwZQgGx",
+            "index": 4,
+            "targeting": null,
+            "metadata": {
+                "id": "3PiHx96nu38Wtt6BwZQgGx",
+                "publishedVersion": 103,
+                "publishedAt": "2026-04-02T07:56:42.968Z"
+            },
+            "postDate": 1775077200000,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "Changes to Bling, Shop, and Cosmetics!",
+            "categories": [
+                {
+                    "title": "News",
+                    "color": "#4AA4F8",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1775163600000,
+            "relatedMedia": [],
+            "type": "newsEntry",
+            "listingSize": "large",
+            "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+            "thumbnail": {
+                "small": {
+                    "title": "0327 Bling Rework inbox 800x433.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_inbox_800x433.png?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "0327 Bling Rework inbox 800x433.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_inbox_800x433.png?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "0327 Bling Rework inbox 800x433.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_inbox_800x433.png?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "0327 Bling Rework inbox 800x433.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_inbox_800x433.png?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "0327 Bling Rework inbox 800x433.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_inbox_800x433.png?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "0327 Bling Rework inbox 800x433.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_inbox_800x433.png?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            },
+            "heroImage": {
+                "small": {
+                    "title": "0327 Bling Rework banner 1600x443.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_banner_1600x443.png?w=320&h=89&f=center&fit=fill",
+                    "width": 320,
+                    "height": 89
+                },
+                "smallRetina": {
+                    "title": "0327 Bling Rework banner 1600x443.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_banner_1600x443.png?w=640&h=177&f=center&fit=fill",
+                    "width": 640,
+                    "height": 177
+                },
+                "medium": {
+                    "title": "0327 Bling Rework banner 1600x443.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_banner_1600x443.png?w=800&h=222&f=center&fit=fill",
+                    "width": 800,
+                    "height": 222
+                },
+                "mediumRetina": {
+                    "title": "0327 Bling Rework banner 1600x443.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_banner_1600x443.png?w=960&h=266&f=center&fit=fill",
+                    "width": 960,
+                    "height": 266
+                },
+                "large": {
+                    "title": "0327 Bling Rework banner 1600x443.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_banner_1600x443.png?w=1280&h=354&f=center&fit=fill",
+                    "width": 1280,
+                    "height": 354
+                },
+                "largeRetina": {
+                    "title": "0327 Bling Rework banner 1600x443.png",
+                    "path": "assets/bling_changes/0327_Bling_Rework_banner_1600x443.png?w=1600&h=443&f=center&fit=fill",
+                    "width": 1600,
+                    "height": 443
+                }
+            },
+            "details": [
+                {
+                    "title": "",
+                    "type": "textBlock",
+                    "body": "<p><b>Changes to Bling, the Catalog, and the Shop!</b></p><p>If you have watched the latest “This is not a Roadmap” video, you know we would like to resolve some current problems with cosmetics and Bling. If you haven’t watched it… well, then… now you know!</p><p>Currently, we have some problems with how cosmetics are perceived, distributed, and sold in Brawl. And of course, we don’t expect to address everything in one go, but we’ll go through the points we believe to be problematic and how we would like to tackle them.</p><p>We will try a new version of our cosmetic system in the next update, and we are going to start with Bling, the Catalog, and the Shop.</p><p>Bling was initially created to make cosmetics accessible to every player. Our goal was to make the announcement and release of Skins/cosmetics exciting for everyone, as opposed to only a few who could purchase them. The hope was to reduce monetization on cosmetics a bit, with the expectation that it would vastly increase engagement with the game. It didn’t really do that, but it might have devalued cosmetics in the game as a whole.</p><p>Now, one of the problems we have is that Bling is sometimes an undesirable reward, and players have more Skins than ever, so they are not as excited about new ones as before.</p><p>We also have a Catalog of Skins available at all times, where players can spend their Bling on any available Skins or cosmetics. Still, Bling is a currency that keeps inflating (many players don’t spend it and keep accumulating more and more Bling) because there isn’t a strong incentive to spend it. It’s not for the lack of options, but perhaps there are so many Skins nowadays that it takes extra effort to go through them all and find what you really want to buy.\n</p>",
+                    "accordion": "no"
+                },
+                {
+                    "title": null,
+                    "fullWidth": "no",
+                    "type": "imageBlock",
+                    "image": {
+                        "small": {
+                            "title": "0327 Bling Rework 1920x1080.jpg",
+                            "path": "assets/1fh3CGwvmRQrEtYpSyiYzK/023f69f7cdd3daea4d507db8b0daed65/0327_Bling_Rework_1920x1080.jpg?w=384&h=216&f=center&fit=fill",
+                            "width": 384,
+                            "height": 216
+                        },
+                        "smallRetina": {
+                            "title": "0327 Bling Rework 1920x1080.jpg",
+                            "path": "assets/1fh3CGwvmRQrEtYpSyiYzK/023f69f7cdd3daea4d507db8b0daed65/0327_Bling_Rework_1920x1080.jpg?w=768&h=432&f=center&fit=fill",
+                            "width": 768,
+                            "height": 432
+                        },
+                        "medium": {
+                            "title": "0327 Bling Rework 1920x1080.jpg",
+                            "path": "assets/1fh3CGwvmRQrEtYpSyiYzK/023f69f7cdd3daea4d507db8b0daed65/0327_Bling_Rework_1920x1080.jpg?w=960&h=540&f=center&fit=fill",
+                            "width": 960,
+                            "height": 540
+                        },
+                        "mediumRetina": {
+                            "title": "0327 Bling Rework 1920x1080.jpg",
+                            "path": "assets/1fh3CGwvmRQrEtYpSyiYzK/023f69f7cdd3daea4d507db8b0daed65/0327_Bling_Rework_1920x1080.jpg?w=1152&h=648&f=center&fit=fill",
+                            "width": 1152,
+                            "height": 648
+                        },
+                        "large": {
+                            "title": "0327 Bling Rework 1920x1080.jpg",
+                            "path": "assets/1fh3CGwvmRQrEtYpSyiYzK/023f69f7cdd3daea4d507db8b0daed65/0327_Bling_Rework_1920x1080.jpg?w=1536&h=864&f=center&fit=fill",
+                            "width": 1536,
+                            "height": 864
+                        },
+                        "largeRetina": {
+                            "title": "0327 Bling Rework 1920x1080.jpg",
+                            "path": "assets/1fh3CGwvmRQrEtYpSyiYzK/023f69f7cdd3daea4d507db8b0daed65/0327_Bling_Rework_1920x1080.jpg?w=1920&h=1080&f=center&fit=fill",
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                },
+                {
+                    "title": "",
+                    "type": "textBlock",
+                    "body": "<p>This is, of course, our interpretation of the current player behavior and with that said, the changes we are making are:</p><ul><li><p>We are removing the option to use Bling in the Catalog - instead, you spend your Bling in a new section of the Shop. Every Skins that was available in the Catalog will still be in rotation; we are only removing the option to buy it at any time.</p><ul><li><p>Our hypothesis is that it’ll make choosing a lot easier if it’s a matter of a few options for you to consider each day, and an engaging activity of checking the offers.</p></li></ul></li><li><p>In this new Shop section, there’ll be bundles that cost Bling. These bundles will contain cosmetics (like Skins or Pins/Profile icons/Sprays) and Boxes/Starr Drops.</p></li><li><p>This means Bling can now get you progression!</p></li><li><p>The Bling bundles are Tap to Reveal, and each tap gives you some Bling.</p></li><li><p>The Bling bundles have a wide range of discounts, from no discount at all to ACTUALLY 100%! </p></li><li><p>The Bling bundles can also contain Mythic and Legendary Skins.</p></li><li><p>Some Bling bundles will let you choose a Skin of a certain rarity from a giant list of options, so the catalog choice experience is preserved, it’s just not available all the time.</p></li><li><p>We’ve also done an overall shop revamp (we’ll share more on this in the Brawl Talk)!</p></li></ul><p><b>Other tuning updates to expect with the new update</b></p><p>We&#39;re also making some adjustments to F2P sources: </p><ul><li><p>Adding a new Bling Mega Quest to each season (additive, not taking away any current Mega Quests).</p></li><li><p>Adding more Bling to the free side of the Brawl Pass.</p></li><li><p>Reducing the % chance of Skins dropping from Starr Drops, Chaos Drops and Brawler Boxes.</p></li></ul><p>The net impact of these changes is that F2P players still get the same number of Skins on average, but they have more control over which Skins they receive and can intentionally acquire more by engaging with our Bling Bundles. The hope is that these changes will make the Skins in your collection more meaningful since you chose more of them.</p><p>Now you are probably asking yourself:</p><p><b>Should I use my Bling NOW? Or wait for the update?</b></p><p>Overall, your Bling spend will be more impactful in the new update. This is because the new system will give you the chance to use Bling on bundles that contain built-in deals, progression, and occasional access to higher rarity Skins.</p><p>However, if there are specific Skins that are available in the Catalog right now that you REALLY want, you should buy them before the update so you don&#39;t have to wait for them to pop up in the new rotating shop.</p><p><b>How can I get Bling RIGHT NOW?</b></p><ul><li><p>Play Ranked (and collect rewards from the Pro Pass)</p></li><li><p>Play your daily 6 wins.</p></li><li><p>Resource Key for Bling (if you haven’t used it yet!)</p></li><li><p>Get it from a small event happening this week (the week of the 30th of March).</p></li></ul><p>As always, that’s the plan for the next update, and we will most likely tweak it (or not) based on its performance.</p><p>We still have a long list of cosmetic changes we want to make, but the ones described above are the first we will tackle in the upcoming update.</p><p>That’s all for now! And more information coming up in Brawl Talk!\nSee you!</p>",
+                    "accordion": "no"
+                }
+            ]
+        },
+        {
+            "id": "37kWbJ3G7nXCPrc1oyK3FI",
+            "index": 5,
+            "targeting": null,
+            "metadata": {
+                "id": "37kWbJ3G7nXCPrc1oyK3FI",
+                "publishedVersion": 7,
+                "publishedAt": "2026-04-01T14:26:06.803Z"
+            },
+            "postDate": 1775053566803,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "Massive Edgar Rework!",
+            "categories": [
+                {
+                    "title": "Video",
+                    "color": "#932EF4",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1775077200000,
+            "relatedMedia": [],
+            "type": "videoNewsEntry",
+            "embed": {
+                "id": "5rWX3QLl1EYmp50MHYjr9o",
+                "provider": "youtube",
+                "url": "https://youtu.be/ZSbVHj0Jeno"
+            },
+            "embedVideo": false,
+            "listingSize": "large",
+            "thumbnail": {
+                "small": {
+                    "title": "0401 April Fools'_YT_06_1920x1080.png",
+                    "path": "assets/zUUZM87l27UqHjcW0N210/03ac78a88fc08f57dd49063f53d4907e/0401_April_Fools__YT_06_1920x1080.png?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "0401 April Fools'_YT_06_1920x1080.png",
+                    "path": "assets/zUUZM87l27UqHjcW0N210/03ac78a88fc08f57dd49063f53d4907e/0401_April_Fools__YT_06_1920x1080.png?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "0401 April Fools'_YT_06_1920x1080.png",
+                    "path": "assets/zUUZM87l27UqHjcW0N210/03ac78a88fc08f57dd49063f53d4907e/0401_April_Fools__YT_06_1920x1080.png?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "0401 April Fools'_YT_06_1920x1080.png",
+                    "path": "assets/zUUZM87l27UqHjcW0N210/03ac78a88fc08f57dd49063f53d4907e/0401_April_Fools__YT_06_1920x1080.png?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "0401 April Fools'_YT_06_1920x1080.png",
+                    "path": "assets/zUUZM87l27UqHjcW0N210/03ac78a88fc08f57dd49063f53d4907e/0401_April_Fools__YT_06_1920x1080.png?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "0401 April Fools'_YT_06_1920x1080.png",
+                    "path": "assets/zUUZM87l27UqHjcW0N210/03ac78a88fc08f57dd49063f53d4907e/0401_April_Fools__YT_06_1920x1080.png?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            }
+        },
+        {
+            "id": "24pEl7iHyZgVTV6MssOXjK",
+            "index": 6,
+            "targeting": null,
+            "metadata": {
+                "id": "24pEl7iHyZgVTV6MssOXjK",
+                "publishedVersion": 384,
+                "publishedAt": "2026-04-02T13:31:42.602Z"
+            },
+            "postDate": 1774922400000,
+            "lang": "en",
+            "section": "newsEntries",
+            "title": "Release Notes February 2026",
+            "categories": [
+                {
+                    "title": "Release Notes",
+                    "color": "#62D43F",
+                    "secondaryColor": null
+                }
+            ],
+            "newUntil": 1773871200000,
+            "relatedMedia": [],
+            "type": "newsEntry",
+            "listingSize": "large",
+            "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+            "thumbnail": {
+                "small": {
+                    "title": "sirius_illustration_AppStore_Universal.png",
+                    "path": "assets/update_66/sirius_illustration_AppStore_Universal.png?w=160&h=87&f=center&fit=fill",
+                    "width": 160,
+                    "height": 87
+                },
+                "smallRetina": {
+                    "title": "sirius_illustration_AppStore_Universal.png",
+                    "path": "assets/update_66/sirius_illustration_AppStore_Universal.png?w=320&h=173&f=center&fit=fill",
+                    "width": 320,
+                    "height": 173
+                },
+                "medium": {
+                    "title": "sirius_illustration_AppStore_Universal.png",
+                    "path": "assets/update_66/sirius_illustration_AppStore_Universal.png?w=400&h=217&f=center&fit=fill",
+                    "width": 400,
+                    "height": 217
+                },
+                "mediumRetina": {
+                    "title": "sirius_illustration_AppStore_Universal.png",
+                    "path": "assets/update_66/sirius_illustration_AppStore_Universal.png?w=480&h=260&f=center&fit=fill",
+                    "width": 480,
+                    "height": 260
+                },
+                "large": {
+                    "title": "sirius_illustration_AppStore_Universal.png",
+                    "path": "assets/update_66/sirius_illustration_AppStore_Universal.png?w=640&h=346&f=center&fit=fill",
+                    "width": 640,
+                    "height": 346
+                },
+                "largeRetina": {
+                    "title": "sirius_illustration_AppStore_Universal.png",
+                    "path": "assets/update_66/sirius_illustration_AppStore_Universal.png?w=800&h=433&f=center&fit=fill",
+                    "width": 800,
+                    "height": 433
+                }
+            },
+            "heroImage": {
+                "small": {
+                    "title": "Sirius_illustration_AppStore_AppsGamesWatch_v01.png",
+                    "path": "assets/update_66/Sirius_illustration_AppStore_AppsGamesWatch_v01.png?w=320&h=89&f=center&fit=fill",
+                    "width": 320,
+                    "height": 89
+                },
+                "smallRetina": {
+                    "title": "Sirius_illustration_AppStore_AppsGamesWatch_v01.png",
+                    "path": "assets/update_66/Sirius_illustration_AppStore_AppsGamesWatch_v01.png?w=640&h=177&f=center&fit=fill",
+                    "width": 640,
+                    "height": 177
+                },
+                "medium": {
+                    "title": "Sirius_illustration_AppStore_AppsGamesWatch_v01.png",
+                    "path": "assets/update_66/Sirius_illustration_AppStore_AppsGamesWatch_v01.png?w=800&h=222&f=center&fit=fill",
+                    "width": 800,
+                    "height": 222
+                },
+                "mediumRetina": {
+                    "title": "Sirius_illustration_AppStore_AppsGamesWatch_v01.png",
+                    "path": "assets/update_66/Sirius_illustration_AppStore_AppsGamesWatch_v01.png?w=960&h=266&f=center&fit=fill",
+                    "width": 960,
+                    "height": 266
+                },
+                "large": {
+                    "title": "Sirius_illustration_AppStore_AppsGamesWatch_v01.png",
+                    "path": "assets/update_66/Sirius_illustration_AppStore_AppsGamesWatch_v01.png?w=1280&h=354&f=center&fit=fill",
+                    "width": 1280,
+                    "height": 354
+                },
+                "largeRetina": {
+                    "title": "Sirius_illustration_AppStore_AppsGamesWatch_v01.png",
+                    "path": "assets/update_66/Sirius_illustration_AppStore_AppsGamesWatch_v01.png?w=1600&h=443&f=center&fit=fill",
+                    "width": 1600,
+                    "height": 443
+                }
+            },
+            "details": [
+                {
+                    "title": "Maintenance - March 30",
+                    "type": "textBlock",
+                    "body": "<h3><b>Balance Changes</b></h3><p><b><u>Buffs:</u></b>\nClancy\n• Health increased: 3500 → 3800\n• Main Attack (Stage 3) - Spread reduced: 250 → 100\n• Main Attack - Range increased: 23 → 25\n• Snappy Shooting (Gadget) cooldown reduced: 15s → 12s\n• Tactical Retreat (Gadget) cooldown reduced: 16s → 13s</p><p>Gigi\n• Trait — Super charge increased: 15%\n• Disappearing Act (Gadget) cooldown reduced: 18s → 15s\n• Plié Protection (Star Power) now activates after 2s without taking damage (instead of 3s)</p><p><b><u>Nerfs:</u></b>\nNajia\n• Main Attack - First hit damage reduced: 400 → 300\n• Main Attack - Second hit damage reduced: 800 → 600</p><p>Crow\n• Main attack - Projectile speed reduced: 3600 → 3261\n• Insta Poison (Gadget) cooldown increased: 15s → 20s</p><p>Bibi\n• Super charge rate reduced: 100 → 90\n• Hypercharge rate reduced: 50 → 40\n• Vitamin Booster (Gadget) cooldown increased: 15s → 20s</p><p>Bull\n• Base Health reduced: 5300 → 5000\n• Hypercharge rate reduced: 35 → 30\n• Hypercharge damage falloff for main attack increased: +50%\n• Stomper (Gadget) slow and stun duration reduced: 2s → 1s</p><p>Glowy\n• Main attack - Range reduced: 24 → 20</p><p>Spike\n• Main attack - Damage reduced: 540 → 490</p><p>Emz\n• Acid Spray (Gadget) cooldown increased: 12s → 16s\n• Friend Zoner (Gadget) damage reduced: 500 → 250</p><p>Rico\n• Main attack damage reduced: 320 → 300</p><p><b>Bug fixes:</b>\n• Fixed an issue where Spike&#39;s buffied &quot;Popping Pincushion&quot; Gadget dealt less damage than the non-buffied version</p><p><i>We are also aware that many of you in the MENA region have experienced a drop in service quality over the past week due to server disruptions. The team is actively working on solutions and will share updates as soon as we can! ⚠️</i></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Maintenance - March 19 ",
+                    "type": "textBlock",
+                    "body": "<p>Fixes:</p><ul><li><p>Fixed an issue where Leon’s Lollipop couldn&#39;t be damaged by damage-over-time effects (such as Byron’s attacks).\n</p></li></ul><p><u><b>SIRIUS</b></u> - Major Nerf</p><ul><li><p>Sirius fires his attacks 20% more slowly.</p></li><li><p>Gadget “A Starr is Born” cooldown increased from 17s to 20s.</p></li><li><p>Shadow clones are now removed when their owner is defeated.</p></li><li><p>Reduced Movement Speed from 770 to 720.</p></li></ul><p></p><p><u><b>NAJIA</b></u> - Buff</p><ul><li><p>Increased Super charge rate from 80 to 85.</p></li><li><p>Increased Hypercharge charge rate from 30 to 40.</p></li><li><p>Increased secondary projectile speed from 2800 to 3100.</p></li><li><p>Increased primary projectile range from 16 to 18.</p></li><li><p>Increased secondary projectile range from 18 to 20.</p></li><li><p>Increased minimum poison damage from 170 to 350.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Optional Update - March 10",
+                    "type": "textBlock",
+                    "body": "<p>Fixes:</p><ul><li><p>Fixed an issue where some low-end Android devices could freeze during game startup.</p></li><li><p>Fixed Bibi’s <b>Vitamin Booster</b></p><p> Gadget displaying incorrect healing and cooldown values. (After updating, the description will display the correct values.)</p></li><li><p>Fixed a visual issue where a second Kudos could appear as an oversized trophy icon during the teammate celebration.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Maintenance - March 4",
+                    "type": "textBlock",
+                    "body": "<p>Fixes:</p><ul><li><p>Fixed an issue where Crow’s Buffied Gadget “Instapoison” prevented Doug from reviving.</p></li><li><p>Fixed an issue where a Brawler’s Prestige Trophy count could drop below 1000 after losing a Duels match.</p></li><li><p>Fixed an issue where Bibi’s “Extra Sticky” Gadget icon was missing during matches.</p></li><li><p>Fixed an issue where Bibi’s “Vitamin Booster” Gadget healed for 2000 instead of the intended 1000 and had a 10 second cooldown instead of 15 seconds; it now correctly heals 1000 and has a 15 second cooldown.</p></li><li><p>Fixed a Trophy exploit where intentionally losing Free Play matches could result in bot matches in other slots.</p></li><li><p>Fixed an issue where Nita’s bear did not receive the damage reduction shield from her Gadget “Faux Fur.”</p></li><li><p>Fixed an issue where if Kaze was defeated before Fan Storm or Hyper Fan landed, the ability would only deal 1 damage per second.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "⚠️ After Maintenance ⚠️",
+                    "type": "textBlock",
+                    "body": "<p>We&#39;re expecting servers to need some time to stabilize after maintenance and a few things are happening in the next few days:  </p><p><b>WEDNESDAY - February 25th</b> All the New Trophy Prestige rewards up to 1000 Trophies (for each Brawler) that you don’t already own will be given out and Legacy Prestige scores will be updated gradually. Both of these will be happening gradually throughout the days after the update release, so they might take a few days to show.\n\n<b>THURSDAY - February 26th</b> Sirius Box release event and the 99 Brawler win Quests <a href=\"javascript:window.sendCommand('OpenWeb?url=https%25253A%25252F%25252Fx.com%25252Fhashtag%25252FBrawlentines%25253Fsrc%25253Dhashtag_click')\">#Brawlentines</a> community event is extended for an extra day. Sirius’ date end and the final reward delivery will now be on February 26th.\n\n<b>FRIDAY - February 27th</b> Last season Trophy Box delivered + Free ULTRA Trophy Box! </p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Prestige",
+                    "type": "textBlock",
+                    "body": "<p>Once a Brawler reaches 1000 Trophies, players can Prestige them and continue playing to earn Prestige Trophies instead of regular Trophies. Prestiging unlocks new rewards and exclusive flex cosmetics that showcase mastery of that Brawler, and <b>all Prestige progress is permanent with no seasonal resets.</b></p><h3><b>Path to Prestige</b></h3><ul><li><p>This menu is accessible from the Brawler&#39;s screen.</p></li><li><p>Players will earn rewards along the way to 1000 Trophies.</p></li><li><p>250: Icon and Spray.</p></li><li><p>500: Pins.</p></li><li><p>750: 29 Gem Skin (or 1000 Bling if no 29 Gem Skin available.)</p></li><li><p>1000 Trophies: (Old) Gold Brawler title (Replace Record reward)</p></li><li><p>Prestige 2: Neon Icon.</p></li><li><p>Prestige 3: New Neon Brawler Title.</p></li><li><p>Cannot drop to lower Prestiges once achieved.</p></li><li><p>Prestige Trophies are added to Trophy Road (Like gaining Season Trophies above 1k).</p></li><li><p>Still works for “Gain Trophy” Quests.</p></li></ul><p><i><u>When a player already owns the reward when reaching a milestone nothing happens besides a checkmark.</u></i></p><h2><b>\nPrestige Battle Card</b></h2><ul><li><p>Prestige Battle Card: Universal for ALL Brawlers account-wide.</p></li><li><p>The number shown is the sum of Prestiges for all your Brawlers</p><ul><li><p>Each Brawler can have multiple Prestige that contribute to sum!</p></li></ul></li><li><p>The more Prestiges you get, the more your Battle Card visually upgrades! Upgrades occur at Prestige 1, 25, and 50 for this update.</p></li></ul><h2><b>\nProfile Brawlidex</b></h2><ul><li><p>Shows each Brawler’s Prestige in your Profile.</p></li><li><p>Your profile shows the sum of all Brawler Prestiges on the Home screen.</p></li></ul><h2><b>\nLeaderboards</b></h2><ul><li><p>Leaderboards will also be updated to reflect your new Prestiges for both account and Brawler specific Leaderboards:</p><ul><li><p>Account-specific Leaderboards will be counted by total Trophies + Total Prestige Trophies.</p></li><li><p>Brawler-specific Leaderboards will be counted by total number of Prestiges.</p></li></ul></li></ul><p><i><u>With the addition of Prestige, we will also retire the current Prestige mechanic and it will become a legacy stat button in your profile.</u></i></p><h2><b>\nMatchmaking Changes</b></h2><p>Matchmaking will now be based on hidden MMR decoupled from Trophies.</p><ul><li><p><u>Prestige 0-1: 0-999 Trophies</u></p><ul><li><p>Bot Matches: on</p></li><li><p>Underdog Trophies: on</p></li><li><p>Win-streak Trophies x10: on</p></li></ul></li><li><p><u>Prestige 1-2: 1000-1999 Trophies</u></p><ul><li><p>Bot Matches: on</p></li><li><p>Underdog Trophies: on</p></li><li><p>Win-streak Trophies x10: on</p></li></ul></li><li><p><u>Prestige 2-3: 2000-2999 Trophies</u></p><ul><li><p>Bot Matches: off</p></li><li><p>Underdog Trophies: off</p></li><li><p>Win-streak Trophies x10: off</p></li></ul></li><li><p><u>Prestige 3+: 3000+ Trophies</u></p><ul><li><p>Bot Matches: off</p></li><li><p>Underdog Trophies: off</p></li><li><p>Win-streak Trophies x10: off</p></li></ul></li><li><p>Brawl Arena Trophies have been re-tuned.</p></li></ul><h2><b>\nOther Changes</b></h2><ul><li><p>Win-trading protection more strict at Prestige 2+</p></li><li><p>Names of players are displayed as “?” at Prestige 2 and above.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Rush Events",
+                    "type": "textBlock",
+                    "body": "<p>Sugar Rush-style events are being expanded for Trophies, Coins, Power Points, Starr Drops, and Chaos Drops!\n</p><h3><b>How They Work</b></h3><ul><li><p>After activating the Rush button in Game Mode selection, players have limited time to win extra rewards. Any win gives extra rewards based on the type of Rush event.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "NEW Brawlers",
+                    "type": "textBlock",
+                    "body": "<h3><b>Sirius - Ultra Legendary - Controller</b></h3><ul><li><p><b>Trait:</b> Using Super while Shadows are active puts a waypoint where Shadows will attack-move.</p></li><li><p><b>Attack: </b>BINARY STARR\nSirius conjures two projectiles, a Ticket Bomb that deals area damage and a Shadow Strike that hits a single target. Sirius will collect a Brawler Shadow on every 4th hit. Sirius can store 3 Brawler Shadows at a time.</p></li><li><p><b>Super: </b>SHADOW SUMMON\nSirius unleashes all stored Brawler Shadows into the world. Shadows will take on the characteristics of their Brawler counterpart, like attacks and health.\nSirius can instruct Shadows to do his bidding! Tap for them to return and follow Sirius, or aim to give them an area to guard.</p></li><li><p><b>Star Power:</b> DUSK RUNNERS\nShadows have increased movement speed.</p></li><li><p><b>Star Power:</b> THE DARKEST STARR\nEvery 4th hit with a Shadow Strike stores 2 Brawler Shadows instead of 1.</p></li><li><p><b>Gadget: </b>A STARR IS BORN\nSirius fires a projectile that summons a Shadow on hit, also slowing the hit target.</p></li><li><p><b>Gadget:</b> MASTER OF SHADOWS\nSummoned Shadows return to Sirius, who heal them for a percentage of their health.</p></li><li><p><b>Hypercharge: </b>UNLIMITED POWER!\nShadows summoned during Hypercharge have increased damage and health.</p></li><li><p><b>Title:</b> The Banished</p></li></ul><p>\n</p><h3><b>Najia - Mythic - Damage Dealer</b></h3><ul><li><p><b>Attack: </b>SSSSNAKE DELIVERY\nNajia hurls a jar containing a deadly snake! While the jar is in flight, the snake can be released in any direction.\nThe jar deals damage while the snake poisons its target. Snake poison can stack, dealing increased damage over time!</p></li><li><p><b>Super: </b>DANGER NOODLES\nNajia unleashes 3 snakes, which slither a set distance and will poison any enemies in an area. The snakes can also be thrown in a jar to a target location!</p></li><li><p><b>Gadget: </b>TOXIC TOP-UP\nResets the duration of all currently applied poison.</p></li><li><p><b>Gadget:</b> NAJIA JAR\nNajia hides inside a vase. Once the vase is broken, she will knock back and poison any nearby enemies!</p></li><li><p><b>Star Power: </b>POISONOUS PROTECTOR\nBrawlers defeated by a snake&#39;s poison will spawn a snake in their place.</p></li><li><p><b>Star Power:</b> VENOMOUS\nPoison damage scales with a poisoned Brawler&#39;s health, dealing an extra 200 damage when a target is at full health.</p></li><li><p><b>Hypercharge: N/A</b></p></li><li><p><b>Title:</b> Venomous</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Sirius Release Event",
+                    "type": "textBlock",
+                    "body": "<p>During the Sirius Release Event, you have multiple ways to unlock Sirius!\n\n\n<b>1. Win With Every Brawler Challenge</b></p><ul><li><p>Win one match with every single Brawler to unlock Sirius for free.</p></li><li><p>You must own all 99 Brawlers to complete this challenge.</p></li><li><p>You can also <b>earn a Sirius Box</b> by winning matches with 50 different Brawlers during the event.</p></li></ul><p>\n\n<b>2. Sirius Box Challenge</b></p><ul><li><p>You need 20 Sirius Boxes to complete the event and unlock Sirius. Each Sirius Box requires 2 wins.</p></li><li><p>Players receive 40 tickets in total, which is exactly enough for 20 Boxes.</p></li><li><p>If you earn the free Sirius Box from the 50 different Brawler wins, that means you can only lose TWICE making this the hardest challenge to complete yet!\n\n\n<b>3. Sirius Box\n</b></p></li><li><p>Sirius can also be unlocked randomly from a Sirius Box during the event.</p></li><li><p>This is the best Brawler Box we have ever released! It drops Brawlers (including Sirius), Coins, Power Points, XP Doublers, Credits Gadgets, Star Powers, and Hypercharges.</p></li><li><p>8 Rewards per Box!</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Hypercharges",
+                    "type": "textBlock",
+                    "body": "<ul><li><p><b><u>Glowy</u></b>: Glowy&#39;s Super during Hypercharge now always fears regardless of facing direction, the attack is now 360 degrees and feared targets take 20% increased damage from all sources.\n</p></li><li><p><b><u>Pierce</u></b>: Fires 2 waves of projectiles, second one dealing less damage, and pierces Brawlers.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "NEW Buffies",
+                    "type": "textBlock",
+                    "body": "<p><i><u>A new Claw Machine will be added to the Buffie menu, that will contain all 6 Brawlers&#39; Buffies!</u></i></p><p><b><u>Crow</u></b></p><ul><li><p><u>[Reworked] Gadget</u>: Instapoison \nCrow instantly deals remaining poison damage to all Crow-poisoned enemies and gains a shield for 150% of the value.</p></li><li><p><u>Buffied</u>: Refreshes poison duration.</p></li><li><p><u>[Reworked] Gadget</u>: Slowing Toxin\nThrow a kunai that damages, slows and poisons the first enemy hit for a time.</p></li><li><p>Buffied: The kunai also bounces to nearby targets, causing the same effect.</p></li><li><p><u>Star Power</u>: Extra Toxic\nCrow&#39;s poison saps the strength of enemies, who deal 15% less damage while poisoned.</p><ul><li><p><u>Buffied</u>: Crow deals 5% more damage for each enemy poisoned.</p></li></ul></li><li><p><u>Star Power</u>: Carrion Crow\nCrow deals 40% more damage with his attack and Super to enemies under 50% health.</p><ul><li><p>Buffied: Crow’s poison duration +1 sec.</p></li></ul></li><li><p>Hypercharge</p><ul><li><p><u>Buffied</u>: Hypercharged Main Attacks pierce and return after reaching max distance, dealing 20% less damage on returning.</p></li></ul></li></ul><p><b><u>Bibi</u></b></p><ul><li><p><u>Gadget</u>: Vitamin Booster\nBibi heals 1000 health per second for 4.0 seconds.</p></li><li><p>Buffied: Instantly charges Bibi’s Home Run bar and her next attack restores 60% damage as health.</p></li><li><p><u>[Reworked] Gadget</u>: Extra Sticky.\nBibi throws Bubble Gum that slows all enemies in it by 20%.</p></li><li><p><u>Buffied</u>: The slowing effect increases the longer the gum stays on the ground.</p></li><li><p><u>Star Power</u>: Home Run\nBibi&#39;s movement speed is increased by 12% when her Home Run bar is fully charged.</p></li><li><p><u>Buffied</u>: Home Run attack deals +20% damage.</p></li><li><p><u>Star Power</u>: Batting Stance\nWhen Bibi&#39;s Home Run bar is fully charged, she shields herself from all damage by 20%.</p></li><li><p>Buffied: Bibi gains a shield for 5 seconds when her Super hits an enemy Brawler.</p></li><li><p><u>Hypercharge</u></p><ul><li><p>Buffied: Bibi’s Hypercharged main attack has a shorter wind up time. </p></li></ul></li></ul><p><b><u>Bull</u></b></p><ul><li><p><u>[Reworked] Gadget</u>: T-Bone Injector &gt; T-Bone Missile\nBull throws a projectile, dealing 1600 damage and heals for 800 if he hits.</p></li><li><p><u>Buffied</u>: Marks the target for 5 seconds, Bull get 50% lifesteal against the target.</p></li><li><p><u>[Reworked] Gadget</u>: Stomper\nBull stomps the ground, slowing nearby enemies. If a target is already slowed, they are stunned!</p><ul><li><p>Buffied: Stunning an enemy grants 30% movement speed for 3 seconds.</p></li></ul></li><li><p><u>Star Power</u>: Berserker\nWhen Bull falls below 60% health, his reload speed doubles!</p><ul><li><p><u>Buffied</u>: Defeating a Brawler while this effect is active instantly charges Bull’s Super.</p></li></ul></li><li><p><u>Star Power</u>: Tough Guy\nWhen Bull falls below 40% health, he gains a shield that reduces all damage he takes by 30%.</p><ul><li><p><u>Buffied</u>: Defeating a Brawler while this effect is active makes Bull immune to damage for 0.5 seconds.</p></li></ul></li><li><p><u>Hypercharge</u></p><ul><li><p><u>Buffied</u>: Bull’s Main Attack deals less damage at long range but pierces all enemies.</p></li></ul></li></ul><p><b><u>Nita</u></b></p><ul><li><p><u>Gadget</u>: Bear Paws\nNita commands her bear to slam the ground, stunning all enemies within its reach.</p><ul><li><p><u>Buffied</u>: Her bear gains 50% damage for the next attack.</p></li></ul></li><li><p><u>Gadget</u>: Faux Fur\nFor the next 3 seconds, Nita&#39;s bear gets a 35% shield against damage.</p><ul><li><p><u>Buffied</u>: Nita and her bear become invulnerable for 0.5 seconds.</p></li></ul></li><li><p><u>Star Power</u>: Bear With Me\nNita recovers 1094 health whenever her bear hits an enemy Brawler. When Nita deals damage to an enemy brawler, her bear regains 1094 health.</p><ul><li><p><u>Buffied</u>: This ability can overheal Nita or her bear for 2000 health.</p></li></ul></li><li><p><u>Star Power</u>: Hyper Bear\nNita&#39;s bear attacks faster. Time between swipes is reduced by 60%.</p><ul><li><p>Buffied: Summoning Nita’s bear gives her 25% increased reload speed for 3 seconds.</p></li></ul></li><li><p><u>Hypercharge</u></p><ul><li><p><u>Buffied</u>: Nita’s attacks increase in speed, width, and range during hypercharge.</p></li></ul></li></ul><p><b><u>Leon</u></b></p><ul><li><p><u>[Buffed] Gadget</u>: Clone Projector - Leon creates an illusion of himself to confuse his enemies. The clone attacks enemies dealing minor damage.</p><ul><li><p><u>Buffied</u>: Leon can reactivate the Gadget while a clone is active to swap positions with the clone.</p></li></ul></li><li><p><u>Gadget</u>: Lollipop Drop: Leon throws a stealthy area for his team to hide in. The lollipop slowly loses its health over time.</p><ul><li><p><u>Buffied</u>: Leon and allies gain 15% movement speed inside of the area.</p></li></ul></li><li><p><u>Star Power</u>: Smoke Trails\nWhen Leon uses his Super, he gains a 30% boost to his movement speed for the duration of his invisibility.</p><ul><li><p><u>Buffied</u>: The first attack after becoming visible deals 15% more damage.</p></li></ul></li><li><p><u>Star Power</u>: Invisiheal\nLeon recovers 1440 health per second while his Super is active.</p><ul><li><p><u>Buffied</u>: Super duration +1 second.</p></li></ul></li><li><p><u>Hypercharge</u></p><ul><li><p><u>Buffied</u>: Leon’s main attacks do at least 75% damage regardless of distance.</p></li></ul></li></ul><p><b><u>Bo</u></b></p><ul><li><p><u>Gadget</u>: Super Totem - Bo throws a totem that increases allies&#39; Super charging rate by 50%. The totem slowly loses its health over time.</p><ul><li><p><u>Buffied</u>: The totem has significantly increased radius.</p></li></ul></li><li><p><u>[Reworked] Gadget</u>: Tripwire - Bo fires tripwires at his mines, detonating them and causing the same mine damage and effects to anyone hit by a tripwire.</p><ul><li><p><u>Buffied</u>: Detonating mines have a bigger blast radius.</p></li></ul></li><li><p><u>Star Power</u>: Circling Eagle\nBo spots enemies hidden in bushes from 150% further distance than normal.</p><ul><li><p><u>Buffied</u>: Bo is no longer revealed when attacking from bushes.</p></li></ul></li><li><p><u>Star Power</u>: Snare A Bear\nInstead of a knockback, Bo&#39;s traps now stun the enemy for 2 seconds!</p><ul><li><p><u>Buffied</u>: Significantly increases trap placement speed.</p></li></ul></li><li><p><u>Hypercharge</u></p><ul><li><p><u>Buffied</u>: Bo’s main attack shoots a 4th arrow, and each arrow has increased area damage radius.</p></li></ul></li></ul><h2><b>Gear Removal &amp; Compensation</b></h2><p>The following Gears will be removed, and you will get the full amount of Coins back through the Inbox as compensation. </p><ul><li><p>Crow - &quot;Enduring Toxins&quot; Gear.</p></li><li><p>Bull - &quot;Super Charge&quot; Gear.</p></li><li><p>Bo - &quot;Reload&quot; Gear.</p></li><li><p>Nita - &quot;Pet Power&quot; Gear.</p></li><li><p>Leon - &quot;Lingering Smoke&quot; Gear.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Seasons & Skins",
+                    "type": "textBlock",
+                    "body": "<h3><b>Season: Sands of Time</b></h3><ul><li><p>SANDSTALKER LILY | Brawl Pass | EPIC</p><ul><li><p>SANDWALKER LILY | Brawl Pass (Chroma #1) | EPIC</p></li><li><p>NIGHT SANDS LILY | Brawl Pass (Chroma #2) | EPIC</p></li></ul></li><li><p>SULTAN CORDELIUS |BP | EPIC</p><ul><li><p>HEATED SULTAN CORDELIUS | Brawl Pass (Chroma #1) | EPIC</p></li><li><p>COOLED SULTAN CORDELIUS | Brawl Pass (Chroma #2) | EPIC</p></li></ul></li><li><p>BODYGUARD BIBI | EPIC | 149 Gems</p></li><li><p>CANOPIC 8-BIT | MYTHIC | 199 Gems</p></li><li><p>DYNASTY DOUG | MYTHIC | 199 Gems</p></li><li><p>MAGIC LAMP LARRY &amp; LAWRIE | LEGENDARY | 299 Gems</p></li></ul><h3><b>Season: Dragons and Faeries</b></h3><ul><li><p>FAERIE BONNIE | Brawl Pass | EPIC | </p><ul><li><p>DARK FAERIE BONNIE | Brawl Pass (Chroma #1) | EPIC</p></li><li><p>BRIGHT FAERIE BONNIE | Brawl Pass (Chroma #2) | EPIC</p></li></ul></li><li><p>DRAGON GRIFF | Brawl Pass | EPIC | </p><ul><li><p>GREEDY GRIFF | Brawl Pass (Chroma #1) | EPIC</p></li><li><p>HOARDER GRIFF | Brawl Pass (Chroma #2) | EPIC </p></li></ul></li><li><p>FAERIE MINA | EPIC | 149 Gems</p></li><li><p>FAERIE FRANK | MYTHIC | 199 Gems</p></li><li><p>DRAGON MAISIE | MYTHIC | 199 Gems</p></li><li><p>DRAGROM | LEGENDARY | 299 Gems</p></li></ul><h3><b>Miscellaneous Skins</b></h3><ul><li><p>ROYALE TRUNK | EPIC | 149 Gems</p></li><li><p>YWOLG | MYTHIC | 199 Gems</p></li><li><p>INFLATABLE MELODIE | EPIC | 149 Gems</p></li><li><p>BRUCE NITA | MYTHIC | 199 Gems</p></li></ul><h3><b>Pro Pass Skin</b></h3><ul><li><p>DRAGON CROW | Stage 1</p></li><li><p>DRAGONKIN CROW | Hypercharged 1</p></li><li><p>DRAGONFORGED CROW | Hypercharged Chroma #1</p></li><li><p>GHOST DRAGON CROW | Hypercharged Chroma #2</p></li></ul><p><b>True Gold/Silver</b></p><ul><li><p>True Gold Pierce</p></li><li><p>True Silver Pierce</p></li><li><p>True Gold Glowy</p></li><li><p>True Silver Glowy</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Balance Changes",
+                    "type": "textBlock",
+                    "body": "<p><b><u>JAE YONG</u></b><b> </b>- Minor Buff</p><ul><li><p>HP increased from 7,000 to 7,400.</p></li></ul><p><b><u>LOU</u></b><b> </b>-<b> </b>Minor Buff</p><ul><li><p>HP increased from 6,800 to 7,000.</p></li><li><p>Buff Base Super Area freeze buildup reduced from 8.3s to 7.1s.</p></li><li><p>Freeze meter now starts decaying after 2.5s instead of 2s.</p></li></ul><p><b><u>ZIGGY</u></b><b> </b>-<b> </b>Major Buff</p><ul><li><p>HP increased from 6,000 to 6,400.</p></li><li><p>Recharge time improved by 5%.</p></li><li><p>Reaction time buff 5% faster to spawn projectile.</p></li></ul><p><b><u>COLETTE</u></b> - Minor Buff</p><ul><li><p>Main Attack damage increased from 1,000 to 1,100.</p></li><li><p>Main Attack percent damage increased from 37% to 39%.</p></li><li><p>Super damage increased from 2,000 to 2,200.</p></li><li><p>Super percent damage increased from 20% to 22%.</p></li></ul><p><b><u>JANET</u></b> - Minor Buff</p><ul><li><p>Projectile speed increased to 4.2%.</p></li><li><p>“Drop the Bass” Gadget cooldown reduced from 20s to 18s.</p></li></ul><p><b><u>LOLA</u></b> - Minor Buff</p><ul><li><p>Hypercharge Ego collision radius reduced.</p></li><li><p>Regular Ego HP increased from 4,000 to 4,400.</p></li></ul><p><b><u>LUMI</u></b> - Minor Buff</p><ul><li><p>HP increased from 5,800 to 6,200.</p></li></ul><p><b><u>GIGI</u></b> -<b> </b>Minor Buff</p><ul><li><p>Main attack is now more responsive.</p></li><li><p>Burst of speed while attacking is stronger.</p></li><li><p>Super burst at max level reduced from 3000 to 2600 per hit (also applies during Hypercharge engage/return hits).</p></li><li><p>Peak combo damage potential is now capped lower.</p></li><li><p>Faster attack windup from 20% to 30% faster.</p></li></ul><p><b><u>BUZZ</u></b> - Minor Buff</p><ul><li><p>Attack spread reduced by 10% for more consistent mid to close range damage.</p></li><li><p>Super projectile speed increased by 3% for regular hits, Supers, and Hypercharges.</p></li><li><p>Minimum stun duration increased from 0.5s to 0.6s.</p></li></ul><p><b><u>KIT</u></b> - Change</p><ul><li><p>Attached throwing has slightly more spread for easier hits.</p></li><li><p>Stun reduced from 2s to 1.5s.</p></li><li><p>Attached healing duration reduced from 10s to 8s.</p></li><li><p>Healing per second increased from 10% to 15% max HP.</p></li><li><p>Hypercharge healing per second increased from 20% to 25% max HP.</p></li></ul><p><b><u>CHESTER</u></b> - Minor Buff</p><ul><li><p>Damage per projectile increased from 1,280 to 1,340.</p></li><li><p>HP increased from 7,400 to 7,600.</p></li></ul><p><b><u>BONNIE</u></b> - Minor Buff</p><ul><li><p>Super charge rate reduced from 6 to 5 shots (with Epic Gear, reduced from 5 to 4 shots).</p></li><li><p>Hypercharge charge rate reduced from 12 to 11 shots (with Gear, now 10 shots).</p></li></ul><p><b><u>MORTIS</u></b> - Minor Nerf</p><ul><li><p>“Combo Spinner” Gadget no longer goes through walls.</p></li><li><p>“Creature of the Night” Gadget no longer charges Super.</p></li></ul><p><b><u>PEARL</u></b> - Minor Buff</p><ul><li><p>Attack damage increased from 6 x 540 to 6 x 560 (7% increase).</p></li><li><p>Super and Hypercharge charge rate remains unchanged.</p></li></ul><p><b><u>LARRY &amp; LAWRIE</u></b> - Minor Buff</p><ul><li><p>Hypercharge charge rate 8% faster.</p></li><li><p>Now requires 2.6 Supers instead of 2.8.</p></li></ul><p><b><u>RUFFS</u></b> - Major Buff</p><ul><li><p>“Field Promotion” Star Power healing increased from 30 to 40 HP per second.</p></li><li><p>“Take Cover” Gadget Sandbags HP increased from 35% to 40% of max health.</p></li></ul><p><b><u>MINA</u></b> - Minor Nerf</p><ul><li><p>Windmill duration reduced from 2s to 1.5s.</p></li></ul><p><b><u>MEG</u></b> - Minor Buff</p><ul><li><p>“Toolbox” Gadget reload tower area radius increased from 800 to 880.</p></li><li><p>“Force Field” Star Power shield on Mech exit increased from 25% to 30%.</p></li></ul><p><b><u>SPIKE</u></b> - Minor Nerf</p><ul><li><p>Hypercharge now requires slightly more than 3 Supers to charge.</p></li><li><p>“Popping Pincushion” Gadget damage now scales with distance. At close range, it deals 60% damage, which is 600 per spike at level 11. At max range, it remains 1,000 per spike.</p></li><li><p>“Life Plant” Gadget cooldown increased from 18s to 20s.</p></li></ul><p><b><u>STU</u></b> - Minor Buff</p><ul><li><p>HP increased from 6,800 to 7,000.</p></li><li><p>Star Power 2 healing increased from 544 to 560 per Super use.</p></li></ul><p><b><u>FRANK</u></b> - Minor Nerf</p><ul><li><p>HP reduced from 14,000 to 13,600.</p></li><li><p>“Active Noise Canceling” Gadget no longer charges Super or Hypercharge, including the Buffied versions.</p></li><li><p>&quot;Sponge&#39; Star Power reduced from 15% to 10% damage reduction.</p></li><li><p>“Power Grab” Star Power increase damage reduced from 25% to 15%.</p></li><li><p>“Irresistible Attraction” range reduced by 8%.</p></li></ul><p><b><u>EMZ</u></b> - Minor Nerf</p><ul><li><p>Super charge from basic attacks reduced. Now takes about 10 hits instead of 8 to fully charge Super.</p></li><li><p>“Friendzoner” Gadget no longer charges Super or Hypercharge, including the Buffied versions.</p></li></ul><p><b><u>COLT</u></b> - Minor Nerf</p><ul><li><p>&quot;Speedloader&quot; Gadget no longer charges Super or Hypercharge, including the Buffie variant.</p></li></ul><p><b><u>BELLE</u></b> - Minor Buff</p><ul><li><p>Super damage increased from 1,000 to 1,100.</p></li><li><p>HP increased from 5,600 to 5,800.</p></li><li><p>Hypercharge now requires one less attack and one less Super attack to charge.</p></li></ul><p><b><u>PIERCE</u></b> - Minor Nerf</p><ul><li><p>“Bottomless Mags” Gadget cooldown increased from 16s to 18s.</p></li><li><p>Super charges 10% slower to compensate for last shot increased charge.</p></li></ul><p><b><u>CLANCY</u></b> - Change</p><ul><li><p>Level 1 base attack increased from 1,200 to 1,400.</p></li><li><p>Level 2 base attack increased from 1,400 to 1,500.</p></li><li><p>Level 3 remains 1,600.</p></li><li><p>Level 2 now requires 6 shots instead of 7 (4 with Star Power for 2 tokens).</p></li><li><p>Super bullets reduced from 16 to 12 and added proximity damage reduction: 100% damage at max range and 50% at close range (for example, maximum damage on Safe is now 7,000.)</p></li></ul><p><b><u>ROSA</u></b> - Minor Buff</p><ul><li><p>Super duration increased from 3s to 4s.</p></li></ul><p><b><u>ALLI</u></b> - Minor Nerf</p><ul><li><p>“Cold-blooded” Gadget cooldown increased from 14s to 16s.</p></li></ul><p><b><u>RICO</u></b><b> </b>- Minor Nerf</p><ul><li><p>Super charge rate increased from 12 to 15 shots to compensate for bullet speed buff helping land more hits. \n</p></li></ul><h3><u><b>Brawl Arena Only</b></u></h3><p><b><u>GIGI</u></b> - Major Nerf</p><ul><li><p>HP reduced from 650 to 450.</p></li><li><p>Damage reduced from 4 to 3.\n</p></li></ul><p><b><u>GLOWY</u></b> - Major Nerf</p><ul><li><p>HP reduced from 450 to 400.</p></li><li><p>Fixed double XP bug.</p></li></ul><p><b><u>\nPIERCE</u></b> - Major Nerf</p><ul><li><p>HP reduced from 550 to 500.</p></li><li><p>Damage reduced from 5 to 4.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Maps, Game Modes & Rotation Changes",
+                    "type": "textBlock",
+                    "body": "<h3><b><u>Boss Fights</u></b></h3><p><b>Dungeon Boss Fights:</b> Unique dungeon bosses have been introduced, each offering a distinct combat fantasy and challenge.</p><ul><li><p><b>BOSS Griff – Greedy Overlord</b></p></li><li><p>Sustained pressure through high projectile density and area control.</p></li><li><p><b>BOSS Grom – Relentless Demolisher</b></p></li><li><p>Extreme map-wide threat with unlimited-range explosives.</p></li><li><p>Forces constant repositioning and spatial awareness.</p></li><li><p><b>Boss Crow – Evolving Dragon</b></p><ul><li><p>Multi-phase boss that grows stronger after each defeat.</p></li><li><p>Transforms from agile assassin into a full-scale dragon menace.</p></li></ul></li><li><p><b>BOSS Maisie – Tempo Enforcer</b></p></li><li><p>Uses variable-speed projectiles to disrupt player timing.</p></li><li><p>Punishes predictable movement and slow reactions.</p></li><li><p><b>April Fools’ Special Boss:</b> A one-day-only boss encounter available exclusively on April Fools’ Day.</p></li><li><p><b>Boss Nita</b> enters the arena with a twisted summoning loop.</p></li></ul><h3><b><u>New Seasonal Games Modes</u></b></h3><p><b>Loaded Showdown</b> (Showdown with Powerups)</p><ul><li><p>Crates are replaced with “Mystery boxes”.</p></li><li><p>Each box drops a permanent power-up (health, damage, speed or shield).</p></li><li><p>There’s a chance (default 40%) to drop another bonus item: a Consumable or a Carryable.</p></li><li><p>Power-ups - permanent buff, drops partially upon defeat (similar to power cubes).</p><ul><li><p>Damage buff (+15%).</p></li><li><p>Max health buff (+15%).</p></li><li><p>Speed buff (+10%).</p></li><li><p>Shield buff (incoming damage -10%).</p></li></ul></li><li><p>Consumables - temporary buffs.</p><ul><li><p>Hypercharge instant charge (Returning buff).</p></li><li><p>Speed &amp; damage Drink (Returning buff).</p></li></ul></li><li><p>Carryables - can be picked up and used/thrown like an attack.</p><ul><li><p>Bowling ball</p><ul><li><p>Throws in straight line.</p></li><li><p>Destroys walls.</p></li><li><p>Pushes, damages &amp; stuns Brawlers.</p></li><li><p>Damages boxes.</p></li><li><p>Breaks after destroying enough wall tiles.</p></li></ul></li><li><p>Shuriken</p><ul><li><p>Throws in straight line</p></li><li><p>Damages Brawlers/boxes on hit, hits even while carrying. Breaks when hitting target.</p></li><li><p>Cuts grass.</p></li></ul></li><li><p>Car</p><ul><li><p>Brawler gets into a car, goes fast.</p></li><li><p>Destroys walls (car takes damage). Explodes upon taking damage.</p></li><li><p>Driving over enemies and boxes causes damage.</p></li></ul></li><li><p>Bomb</p><ul><li><p>Throwable over walls.</p></li><li><p>Explodes after ~1.5 seconds doing area of effect damage.</p></li><li><p>Explosion breaks walls.\n</p></li></ul></li></ul></li></ul><p><b>Shadow Smash</b> (3v3/5v5, Samurai Smash variant)</p><ul><li><p>Shadow spiders &amp; Shadow clones of player brawlers spawn around the map</p></li><li><p>Defeat Shadow clones &amp; enemy Brawlers that drop “Moon” items (modelled after Sirius’s mask). Team that picks up the required amount (60/100) of Moons wins.</p></li><li><p>Giant Sirius appears as a mini boss.</p></li><li><p>Maps:</p><ul><li><p>3v3</p><ul><li><p>Moonveil Mansion</p></li><li><p>Silver Shadow Circus</p></li><li><p>Illusion Alley</p></li><li><p>Doppelzone</p></li></ul></li><li><p>5v5</p><ul><li><p>Web of Shadows</p></li><li><p>The Big Top</p></li><li><p>Imposter Pathway</p></li><li><p>Copycat Carnival</p></li></ul></li></ul></li><li><p>Treasure Hunt (Returning mode)</p><ul><li><p>Change: Now stops the timer when 2 teams are contesting the platform</p></li></ul></li><li><p>Modifiers</p><ul><li><p>Sandstorms: a sandstorm appears intermittently and covers a part of the map. You can’t see inside if you’re outside, and vice-versa!</p></li><li><p>Slow bullets: a map wide slowdown effect appears intermittently and slows projectiles.</p></li></ul></li></ul><h3><b><u>Environments</u></b></h3><ul><li><p>Removed:</p><ul><li><p>Candyland</p></li><li><p>Darryl’s Ship</p></li><li><p>Sea Monsters Aquarium</p></li><li><p>Starr Force</p></li><li><p>Swamp of Love</p></li></ul></li><li><p>Added:</p><ul><li><p>Bizarre Circus</p></li><li><p>MadEvil Manor</p></li><li><p>Pyramid Quest</p></li><li><p>Retropolis</p></li><li><p>Rumble Jungle</p></li><li><p>Scrapyard</p></li></ul></li></ul><p><u>Maps</u></p><ul><li><p>No changes.</p></li></ul><p><u>Community slot</u></p><ul><li><p>No changes.</p></li></ul><p><u>Mega Pig</u></p><ul><li><p>No changes.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Ranked",
+                    "type": "textBlock",
+                    "body": "<h3><b><u>Season 1</u></b></h3><ul><li><p>Featured game mode: Gem Grab</p><ul><li><p>Map 1: Rustic Arcade</p></li><li><p>Map 2: Crystal Arcade</p></li></ul></li><li><p>Free Brawler Rotation:</p><ul><li><p>Epic: Shade</p></li><li><p>Mythic: Squeak</p></li><li><p>Legendary: Kit</p></li></ul></li></ul><h3><b><u>Season 2</u></b></h3><ul><li><p>Featured game mode: Brawl Ball</p><ul><li><p>Map 1: Spiraling Out</p></li><li><p>Map 2: Beach Ball</p></li></ul></li><li><p>Free Brawler Rotation:</p><ul><li><p>Epic: Larry &amp; Lawrie</p></li><li><p>Mythic: Doug</p></li><li><p>Legendary: Cordelius</p></li></ul></li></ul><h2><b>Brawl Stars Championship</b></h2><ul><li><p>BSC Challenges on February 27-March 1 and March 27-29.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Permanent Improvements & QoL Features",
+                    "type": "textBlock",
+                    "body": "<ul><li><p>Free Play game rotation slot (Rotating game mode slot, random matchmaking &amp; no Trophy gain/loss).</p></li><li><p>Pro skin upgrades can drop from ranked drops - Colt Pro Skin will become possible to drop as of Mid March! Following Pro Skins will also become available 8 months after the end of their Pro Pass season.</p></li><li><p>Pro Pass progress buffed! PPXP from wins increased to 50 from 25, and PPXP from reaching a new Rank increased to 400 from 200.\nDifferentiated VFX for different shields:</p><ul><li><p>White shield - you become invulnerable (when you respawn).</p></li><li><p>Yellow shield - you get damage deduction.</p></li><li><p>Purple-blue shield - you get extra shield health, and the shield loses its health over time.</p></li></ul></li><li><p>Championship notification placement back to home screen (pointing at Ranked).</p></li><li><p>Solo Showdown won’t award Trophies on disconnect / Players will now disconnect when standing idle too long in Solo Showdown.</p></li><li><p>Glowbert&#39;s name has changed to Glowy. After befriending Moe, the Brawler&#39;s gave him a friendly new nickname - Glowy!</p></li><li><p>During this update, we will be running an A/B test on Mega Quest&#39;s:</p><ul><li><p>80% of players will receive Mega Quest&#39;s on the standard monthly schedule.</p></li><li><p>20% of players will receive Mega Quest on a weekly schedule.</p></li></ul></li></ul><p></p>",
+                    "accordion": "yes"
+                },
+                {
+                    "title": "Bug Fixes",
+                    "type": "textBlock",
+                    "body": "<ul><li><p>Fixed a Ranked Battle Card display issue where the current selected Brawler was shown instead of the Ranked selected Brawler.</p></li><li><p>Fixed an issue where Otis’s first Gadget Starfish would disappear after 5 seconds, even if no enemies were nearby.</p></li><li><p>Fixed an issue where projectiles could not exit Mina’s “Windmill” Gadget area when fired from inside it.</p></li><li><p>Fixed an edge case that could cause a crash in the Ranked loadout screen.</p></li><li><p>Fixed an issue where the slow effect from Squeak’s Gadget &quot;Residue&quot; could stack and immobilize players.</p></li><li><p>Fixed a server error that could occur when Sam picked up his Knuckle Busters during Hypercharge.</p></li><li><p>Fixed missing outer visual effects on 8-Bit’s Super  &quot;Damage Booster&quot; when using the &quot;Plugged In&quot; Star Power.</p></li><li><p>Fixed an issue where some players saw Shop offers grayed out and were unable to purchase them.</p></li></ul><p></p>",
+                    "accordion": "yes"
+                }
+            ]
+        }
+    ],
+    "fullscreenEntries": [],
+    "globals": {
+        "globalText.langBackToTop": "Back to top",
+        "globalText.poll": "Poll",
+        "globalText.langWatch": "Watch",
+        "globalText.langClaimed": "Claimed",
+        "globalText.langClaim": "Claim",
+        "globalText.langVoted": "Voted!",
+        "globalText.langLoadMore": "More!",
+        "globalText.empty": "Nothing to see here, check back later.",
+        "globalText.votes": "Votes",
+        "globalText.langNewer": "Newer",
+        "globalText.copyToClipboard": "Copied to clipboard!",
+        "globalText.langVoteResultsButtonLabel": "Show Results",
+        "globalText.langVoteCheck": "Check vote",
+        "globalText.toNews": "To News",
+        "globalText.langVoteTryAgainLabel": "Oops, Try Again!",
+        "globalText.langVoteDefaultButtonLabel": "Vote",
+        "globalText.close": "Close",
+        "globalText.thanksForVoting": "Thanks for voting",
+        "globalText.langVoteSubmitLabel": "Submit",
+        "globalText.langDay": "day",
+        "globalText.langOlder": "Older",
+        "globalText.langNew": "New",
+        "globalText.esportLive": "Live",
+        "globalText.langCastYourVote": "Cast Your Vote",
+        "globalText.langBy": "By",
+        "globalText.langEsportLive": "Live",
+        "globalText.langEsportGlobalPosts": "Global Posts",
+        "globalText.langCommunityWatchLive": "Watch {NAME_OF_PLAYER} Live",
+        "globalText.langCommunityLive": "Live",
+        "globalText.langFollowUs": "Follow Us!",
+        "globalText.esportFollowing": "FOLLOWING",
+        "globalText.esportChangeRegion": "CHANGE REGION",
+        "globalText.esportFollow": "You can follow up to 3 regions",
+        "globalText.esportDone": "Done",
+        "communityText.langLive": "Live",
+        "globalText.langCommunityLatestGreatest": "Latest & Greatest",
+        "globalText.langEsportChange Region": "Change Region",
+        "globalText.langEsportCurrentlyFollowing": "Currently Following",
+        "globalText.langEsportFollowMore": "Follow More",
+        "globalText.langEsportDoneCTAButton": "Done",
+        "globalText.langEsportYouCanFollow": "You can follow up to 3 regions",
+        "globalText.langEsportCTANextText": "Next",
+        "globalText.langEsportWelcomeTo": "Welcome to the brand new ESPORTS SECTION!",
+        "globalText.langEsportEsportIntro": "Here you will receive news and broadcasts from Brawl Stars Championship and community tournaments.",
+        "globalText.langEsportRevealScore": "Reveal Score",
+        "globalText.langEsportLiveIn": "LiveIn",
+        "globalText.langOutOfFeed": " ",
+        "globalText.langHourCountdown": "Hour",
+        "globalText.langSecondsAbbreviated": "sec",
+        "globalText.langDayAgo": "{x} day ago",
+        "globalText.langDays": "days",
+        "globalText.langDaysAgo": "{x} days ago",
+        "globalText.langHourAgo": "{x} hour ago",
+        "globalText.langHoursAbbreviated": "h",
+        "globalText.langMinuteAgo": "{x} minute ago",
+        "globalText.langMinutesAgo": "{x} minutes ago",
+        "globalText.langMinutesAbbreviated": "min",
+        "globalText.langLoading": "Loading...",
+        "globalText.langYouVoted": "You Voted",
+        "globalText.langHoursAgo": "{x} hours ago",
+        "globalText.langHoursCountdown": "Hours",
+        "globalText.langMinuteCountdown": "Minute",
+        "globalText.langMinutesCountdown": "Minutes",
+        "globalText.langEndsIn": "Ends In",
+        "globalText.langSecondCountdown": "Second",
+        "globalText.langSecondsCountdown": "Seconds",
+        "globalText.langGo": "Go!"
+    },
+    "socialLinks": [
+        {
+            "linkUrl": "https://www.reddit.com/r/Brawlstars/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "reddit.svg",
+                    "path": "assets/2MhbxGC5GVN5NH3kOc3PgX/0e9dc1418add10880cc6cae892023a2e/reddit.svg?w=50&h=37&f=center&fit=fill",
+                    "width": 50,
+                    "height": 37
+                },
+                "smallRetina": {
+                    "title": "reddit.svg",
+                    "path": "assets/2MhbxGC5GVN5NH3kOc3PgX/0e9dc1418add10880cc6cae892023a2e/reddit.svg?w=99&h=74&f=center&fit=fill",
+                    "width": 99,
+                    "height": 74
+                },
+                "medium": {
+                    "title": "reddit.svg",
+                    "path": "assets/2MhbxGC5GVN5NH3kOc3PgX/0e9dc1418add10880cc6cae892023a2e/reddit.svg?w=124&h=93&f=center&fit=fill",
+                    "width": 124,
+                    "height": 93
+                },
+                "mediumRetina": {
+                    "title": "reddit.svg",
+                    "path": "assets/2MhbxGC5GVN5NH3kOc3PgX/0e9dc1418add10880cc6cae892023a2e/reddit.svg?w=149&h=112&f=center&fit=fill",
+                    "width": 149,
+                    "height": 112
+                },
+                "large": {
+                    "title": "reddit.svg",
+                    "path": "assets/2MhbxGC5GVN5NH3kOc3PgX/0e9dc1418add10880cc6cae892023a2e/reddit.svg?w=198&h=149&f=center&fit=fill",
+                    "width": 198,
+                    "height": 149
+                },
+                "largeRetina": {
+                    "title": "reddit.svg",
+                    "path": "assets/2MhbxGC5GVN5NH3kOc3PgX/0e9dc1418add10880cc6cae892023a2e/reddit.svg?w=248&h=186&f=center&fit=fill",
+                    "width": 248,
+                    "height": 186
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.youtube.com/channel/UCooVYzDxdwTtGYAkcPmOgOw",
+            "socialLinkImage": {
+                "small": {
+                    "title": "youtube.svg",
+                    "path": "assets/56JgdW5u2N1ACFqnwkilGT/a327be35f3608d4f22facc3e910d2d67/youtube.svg?w=50&h=37&f=center&fit=fill",
+                    "width": 50,
+                    "height": 37
+                },
+                "smallRetina": {
+                    "title": "youtube.svg",
+                    "path": "assets/56JgdW5u2N1ACFqnwkilGT/a327be35f3608d4f22facc3e910d2d67/youtube.svg?w=99&h=74&f=center&fit=fill",
+                    "width": 99,
+                    "height": 74
+                },
+                "medium": {
+                    "title": "youtube.svg",
+                    "path": "assets/56JgdW5u2N1ACFqnwkilGT/a327be35f3608d4f22facc3e910d2d67/youtube.svg?w=124&h=93&f=center&fit=fill",
+                    "width": 124,
+                    "height": 93
+                },
+                "mediumRetina": {
+                    "title": "youtube.svg",
+                    "path": "assets/56JgdW5u2N1ACFqnwkilGT/a327be35f3608d4f22facc3e910d2d67/youtube.svg?w=149&h=112&f=center&fit=fill",
+                    "width": 149,
+                    "height": 112
+                },
+                "large": {
+                    "title": "youtube.svg",
+                    "path": "assets/56JgdW5u2N1ACFqnwkilGT/a327be35f3608d4f22facc3e910d2d67/youtube.svg?w=198&h=149&f=center&fit=fill",
+                    "width": 198,
+                    "height": 149
+                },
+                "largeRetina": {
+                    "title": "youtube.svg",
+                    "path": "assets/56JgdW5u2N1ACFqnwkilGT/a327be35f3608d4f22facc3e910d2d67/youtube.svg?w=248&h=186&f=center&fit=fill",
+                    "width": 248,
+                    "height": 186
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.facebook.com/brawlstars/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "facebook.svg",
+                    "path": "assets/4lKg0WiKUAaLFi9KPu787g/3d62d7840ce3da2c037001a36b499f5e/facebook.svg?w=50&h=37&f=center&fit=fill",
+                    "width": 50,
+                    "height": 37
+                },
+                "smallRetina": {
+                    "title": "facebook.svg",
+                    "path": "assets/4lKg0WiKUAaLFi9KPu787g/3d62d7840ce3da2c037001a36b499f5e/facebook.svg?w=99&h=74&f=center&fit=fill",
+                    "width": 99,
+                    "height": 74
+                },
+                "medium": {
+                    "title": "facebook.svg",
+                    "path": "assets/4lKg0WiKUAaLFi9KPu787g/3d62d7840ce3da2c037001a36b499f5e/facebook.svg?w=124&h=93&f=center&fit=fill",
+                    "width": 124,
+                    "height": 93
+                },
+                "mediumRetina": {
+                    "title": "facebook.svg",
+                    "path": "assets/4lKg0WiKUAaLFi9KPu787g/3d62d7840ce3da2c037001a36b499f5e/facebook.svg?w=149&h=112&f=center&fit=fill",
+                    "width": 149,
+                    "height": 112
+                },
+                "large": {
+                    "title": "facebook.svg",
+                    "path": "assets/4lKg0WiKUAaLFi9KPu787g/3d62d7840ce3da2c037001a36b499f5e/facebook.svg?w=198&h=149&f=center&fit=fill",
+                    "width": 198,
+                    "height": 149
+                },
+                "largeRetina": {
+                    "title": "facebook.svg",
+                    "path": "assets/4lKg0WiKUAaLFi9KPu787g/3d62d7840ce3da2c037001a36b499f5e/facebook.svg?w=248&h=186&f=center&fit=fill",
+                    "width": 248,
+                    "height": 186
+                }
+            }
+        },
+        {
+            "linkUrl": "https://twitter.com/brawlstars",
+            "socialLinkImage": {
+                "small": {
+                    "title": "x.svg",
+                    "path": "assets/O6ZGtqZGBgsGQFG5M9rYY/114bf0646930d7a8640172fae2cbbeca/x.svg?w=50&h=37&f=center&fit=fill",
+                    "width": 50,
+                    "height": 37
+                },
+                "smallRetina": {
+                    "title": "x.svg",
+                    "path": "assets/O6ZGtqZGBgsGQFG5M9rYY/114bf0646930d7a8640172fae2cbbeca/x.svg?w=99&h=74&f=center&fit=fill",
+                    "width": 99,
+                    "height": 74
+                },
+                "medium": {
+                    "title": "x.svg",
+                    "path": "assets/O6ZGtqZGBgsGQFG5M9rYY/114bf0646930d7a8640172fae2cbbeca/x.svg?w=124&h=93&f=center&fit=fill",
+                    "width": 124,
+                    "height": 93
+                },
+                "mediumRetina": {
+                    "title": "x.svg",
+                    "path": "assets/O6ZGtqZGBgsGQFG5M9rYY/114bf0646930d7a8640172fae2cbbeca/x.svg?w=149&h=112&f=center&fit=fill",
+                    "width": 149,
+                    "height": 112
+                },
+                "large": {
+                    "title": "x.svg",
+                    "path": "assets/O6ZGtqZGBgsGQFG5M9rYY/114bf0646930d7a8640172fae2cbbeca/x.svg?w=198&h=149&f=center&fit=fill",
+                    "width": 198,
+                    "height": 149
+                },
+                "largeRetina": {
+                    "title": "x.svg",
+                    "path": "assets/O6ZGtqZGBgsGQFG5M9rYY/114bf0646930d7a8640172fae2cbbeca/x.svg?w=248&h=186&f=center&fit=fill",
+                    "width": 248,
+                    "height": 186
+                }
+            }
+        },
+        {
+            "linkUrl": "http://supr.cl/tiktok-inbox",
+            "socialLinkImage": {
+                "small": {
+                    "title": "tiktok.svg",
+                    "path": "assets/30c383BcEH3KbVIGph8e0/2a9ee68b920a874826d30b5931c4d489/tiktok.svg?w=50&h=37&f=center&fit=fill",
+                    "width": 50,
+                    "height": 37
+                },
+                "smallRetina": {
+                    "title": "tiktok.svg",
+                    "path": "assets/30c383BcEH3KbVIGph8e0/2a9ee68b920a874826d30b5931c4d489/tiktok.svg?w=99&h=74&f=center&fit=fill",
+                    "width": 99,
+                    "height": 74
+                },
+                "medium": {
+                    "title": "tiktok.svg",
+                    "path": "assets/30c383BcEH3KbVIGph8e0/2a9ee68b920a874826d30b5931c4d489/tiktok.svg?w=124&h=93&f=center&fit=fill",
+                    "width": 124,
+                    "height": 93
+                },
+                "mediumRetina": {
+                    "title": "tiktok.svg",
+                    "path": "assets/30c383BcEH3KbVIGph8e0/2a9ee68b920a874826d30b5931c4d489/tiktok.svg?w=149&h=112&f=center&fit=fill",
+                    "width": 149,
+                    "height": 112
+                },
+                "large": {
+                    "title": "tiktok.svg",
+                    "path": "assets/30c383BcEH3KbVIGph8e0/2a9ee68b920a874826d30b5931c4d489/tiktok.svg?w=198&h=149&f=center&fit=fill",
+                    "width": 198,
+                    "height": 149
+                },
+                "largeRetina": {
+                    "title": "tiktok.svg",
+                    "path": "assets/30c383BcEH3KbVIGph8e0/2a9ee68b920a874826d30b5931c4d489/tiktok.svg?w=248&h=186&f=center&fit=fill",
+                    "width": 248,
+                    "height": 186
+                }
+            }
+        },
+        {
+            "linkUrl": "https://www.instagram.com/brawlstars/",
+            "socialLinkImage": {
+                "small": {
+                    "title": "instagram.svg",
+                    "path": "assets/E3aPefpbmlvpTb9giMXJ5/810eec50e8950f60b880123226c4c4eb/instagram.svg?w=50&h=37&f=center&fit=fill",
+                    "width": 50,
+                    "height": 37
+                },
+                "smallRetina": {
+                    "title": "instagram.svg",
+                    "path": "assets/E3aPefpbmlvpTb9giMXJ5/810eec50e8950f60b880123226c4c4eb/instagram.svg?w=99&h=74&f=center&fit=fill",
+                    "width": 99,
+                    "height": 74
+                },
+                "medium": {
+                    "title": "instagram.svg",
+                    "path": "assets/E3aPefpbmlvpTb9giMXJ5/810eec50e8950f60b880123226c4c4eb/instagram.svg?w=124&h=93&f=center&fit=fill",
+                    "width": 124,
+                    "height": 93
+                },
+                "mediumRetina": {
+                    "title": "instagram.svg",
+                    "path": "assets/E3aPefpbmlvpTb9giMXJ5/810eec50e8950f60b880123226c4c4eb/instagram.svg?w=149&h=112&f=center&fit=fill",
+                    "width": 149,
+                    "height": 112
+                },
+                "large": {
+                    "title": "instagram.svg",
+                    "path": "assets/E3aPefpbmlvpTb9giMXJ5/810eec50e8950f60b880123226c4c4eb/instagram.svg?w=198&h=149&f=center&fit=fill",
+                    "width": 198,
+                    "height": 149
+                },
+                "largeRetina": {
+                    "title": "instagram.svg",
+                    "path": "assets/E3aPefpbmlvpTb9giMXJ5/810eec50e8950f60b880123226c4c4eb/instagram.svg?w=248&h=186&f=center&fit=fill",
+                    "width": 248,
+                    "height": 186
+                }
+            }
+        }
+    ],
+    "spotlights": [],
+    "heroes": []
+}
